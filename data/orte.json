@@ -999,5 +999,49 @@
    "foto": "kein Foto",
    "status": "frei"
   }
+ },
+ {
+  "id": "V32",
+  "titel": "Holzfabrik am Hafenbecken (Luftbild 1945)",
+  "gruppe": "Außenlager und Betriebe",
+  "lat": 52.6838,
+  "lon": 13.1859,
+  "lage": "ungefähr: Gelände am Hafenbecken des Stichkanals, nordwestlich des Beckens. Lage aus dem Luftbild von 1945 abgeleitet (Abweichung bis etwa 150 m), nicht eingemessen. Eine zweite grün markierte Fläche liegt rund 600 m östlich, bei etwa 52.6822, 13.1944.",
+  "gewissheit": "Hypothese",
+  "text": "Auf dem Luftbild vom 22. März 1945 sind am Hafenbecken zwei Flächen grün markiert, die die handschriftliche Legende des Projekts mit «Holzfabrik stellte Baracken her» beschreibt. Der Satz bricht am Blattrand ab («u. a. für …»). Das Fernsprechbuch von 1938 nennt in Velten mehrere Dampfsägewerke und Zimmereien, alle in der Ortsmitte und nicht am Hafen. Welcher Betrieb gemeint ist, für wen er Baracken herstellte und ob Zwangsarbeitende dort arbeiteten, ist nicht belegt.",
+  "quellen": "Luftbild Velten vom 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) mit handschriftlicher Legende von Jens-Martin Krieg, Legende teils schwer lesbar und nicht bestätigt; Fernsprechbuch Velten (Mark) 1938.",
+  "foto": null,
+  "personen": null,
+  "region": "velten",
+  "route": "",
+  "rechte": {
+   "text": "eigener Text des Projekts, Tatsachen mit Quelle",
+   "koordinate": "Luftbild 1945 (nicht veröffentlicht), Näherung",
+   "namen": "keine Namen",
+   "foto": "kein Foto",
+   "status": "frei"
+  }
+ },
+ {
+  "id": "V33",
+  "titel": "Gemeinschaftslager am Hafenbecken (Pantinenfabrik?)",
+  "gruppe": "Unterkünfte und Lager",
+  "lat": 52.6816,
+  "lon": 13.1868,
+  "lage": "ungefähr: kleines Gelände am Rand des Hafenbeckens. Lage aus dem Luftbild von 1945 abgeleitet (Abweichung bis etwa 150 m), nicht eingemessen.",
+  "gewissheit": "Hypothese",
+  "text": "Auf dem Luftbild vom 22. März 1945 ist am Rand des Hafenbeckens ein kleines Gelände markiert, das die handschriftliche Legende des Projekts als «Gemeinschaftslager (Pantinenfabrik von Lemm?)» bezeichnet. Pantinen sind Holzschuhe. Das Fernsprechbuch von 1938 nennt in Velten eine Pantinenfabrik Lemme in der Wilhelmstraße 6, also nicht am Hafen. Ob es dieselbe Firma war, ob sie später am Hafen produzierte und ob dort ein Gemeinschaftslager für Zwangsarbeitende bestand, ist nicht belegt.",
+  "quellen": "Luftbild Velten vom 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) mit handschriftlicher Legende von Jens-Martin Krieg, Legende teils schwer lesbar und nicht bestätigt; Fernsprechbuch Velten (Mark) 1938.",
+  "foto": null,
+  "personen": null,
+  "region": "velten",
+  "route": "",
+  "rechte": {
+   "text": "eigener Text des Projekts, Tatsachen mit Quelle",
+   "koordinate": "Luftbild 1945 (nicht veröffentlicht), Näherung",
+   "namen": "keine Namen",
+   "foto": "kein Foto",
+   "status": "frei"
+  }
  }
 ]
