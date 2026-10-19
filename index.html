@@ -95,7 +95,7 @@ footer a{color:#fff}
 <button class="btn" id="tiles" aria-pressed="false">Straßenkarte zuschalten</button>
 </div>
 <div class="wrap">
-<div id="tilenote" class="note" hidden>Beim Zuschalten lädt Ihr Browser Kartenbilder vom Server der OpenStreetMap Foundation. Dabei sieht der Server Ihre IP-Adresse. Ohne Zuschalten findet keine Verbindung zu einem Kartenserver statt.</div>
+<div id="tilenote" class="note" hidden>Ihr Browser lädt Kartenbilder vom Server der OpenStreetMap Foundation. Dabei sieht der Server Ihre IP-Adresse. Mit «Straßenkarte abschalten» endet die Verbindung.</div>
 </div>
 <div class="wrap main">
 <div><div id="map" role="application" aria-label="Karte der Orte"></div><div class="quelle" style="margin-top:6px">Ohne Hintergrund: nur Gitternetz und Orte. Kartendaten für Straßen erst nach Zuschalten (© OpenStreetMap-Mitwirkende, ODbL).</div></div>
@@ -147,6 +147,7 @@ var tb=document.getElementById('tiles');
 tb.onclick=function(){tilesOn=!tilesOn;tb.setAttribute('aria-pressed',tilesOn);document.getElementById('tilenote').hidden=!tilesOn;
  if(tilesOn){tileLayer=L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'Kartendaten © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap-Mitwirkende</a> (ODbL)'});tileLayer.addTo(map);map.addControl(L.control.attribution({prefix:false}));tb.textContent='Straßenkarte abschalten';}
  else{if(tileLayer)map.removeLayer(tileLayer);document.querySelectorAll('.leaflet-control-attribution').forEach(function(a){a.remove();});tb.textContent='Straßenkarte zuschalten';}};
+tb.onclick();
 renderList();fit();
 var h=location.hash.replace('#','');if(byId[h])show(h,false);
 })();
