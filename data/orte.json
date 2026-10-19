@@ -955,5 +955,27 @@
    "foto": "kein Foto",
    "status": "frei"
   }
+ },
+ {
+  "id": "V30",
+  "titel": "Erinnerung: Frauen aus Łódź in einer Veltener Fabrik",
+  "gruppe": "Verfolgung und Ereignisse",
+  "lat": null,
+  "lon": null,
+  "lage": "noch nicht verortet, Betrieb unbekannt",
+  "gewissheit": "Erinnerung (Interview)",
+  "text": "Ein Zeitzeuge, der als polnischer Zwangsarbeiter bei Heinkel in Oranienburg-Germendorf eingesetzt war, erinnert sich im Interview von 2005 an eine kleine Gruppe von Frauen aus Łódź, die in Velten in einer kleinen Fabrik arbeitete. Er nahm Kontakt zu ihnen auf, zu Weihnachten durften sie in sein Lager eingeladen werden. Welche Fabrik gemeint ist und ob die Frauen zum KZ-Außenlager gehörten, sagt er nicht. Der Eintrag ist ein Hinweis aus der Erinnerung. Im Interview heißt es: «Velten, das war eine kleine Stadt dort. Da erfuhren wir, dass eine kleine Gruppe aus Lodz in einer kleinen Fabrik arbeitet.»",
+  "quellen": "Interview-Archiv «Zwangsarbeit 1939-1945»: S., Wacław, Interview za228, 27.05.2005, https://archiv.zwangsarbeit-archiv.de/de/interviews/za228, DOI: https://doi.org/10.83028/za.za228 (Abruf: 19.10.2026). Zugang nur mit Freischaltung über Oral-History.Digital. Kurzes Zitat nach § 51 UrhG, keine Kopien aus dem Archiv.",
+  "foto": null,
+  "personen": null,
+  "region": "velten",
+  "route": "",
+  "rechte": {
+   "text": "eigener Text, kurzes Zitat nach § 51 UrhG mit Quelle",
+   "koordinate": "keine",
+   "namen": "Nachname des Interviewten nur abgekürzt (Zitiervorgabe des Archivs)",
+   "foto": "kein Foto",
+   "status": "bedingt frei"
+  }
  }
 ]
