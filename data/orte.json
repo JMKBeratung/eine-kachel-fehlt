@@ -176,28 +176,6 @@
   }
  },
  {
-  "id": "V10",
-  "titel": "Flakzeugamt Velten",
-  "gruppe": "Außenlager und Betriebe",
-  "lat": null,
-  "lon": null,
-  "lage": "noch nicht verortet",
-  "gewissheit": "belegt",
-  "text": "Wehrmachtseinrichtung, spätestens seit 1939 in Velten. In einem Gemeinschaftslager waren 61 Italiener untergebracht. Ob das Gelände mit dem der Ikaria zusammenhängt, ist offen.",
-  "quellen": "BLHA Rep. 2A I Kom 5884 (Bild 165 bis 173, 251).",
-  "foto": null,
-  "personen": null,
-  "region": "velten",
-  "route": "",
-  "rechte": {
-   "text": "eigener Text des Projekts, Tatsachen mit Quelle",
-   "koordinate": "keine",
-   "namen": "keine Namen",
-   "foto": "kein Foto",
-   "status": "frei"
-  }
- },
- {
   "id": "V11",
   "titel": "Gasthaus Bergschloss, Unterkunft",
   "gruppe": "Unterkünfte und Lager",
@@ -819,28 +797,6 @@
   "rechte": {
    "text": "eigener Text des Projekts, Tatsachen mit Quelle",
    "koordinate": "OpenStreetMap, ODbL",
-   "namen": "keine Namen",
-   "foto": "kein Foto",
-   "status": "frei"
-  }
- },
- {
-  "id": "V20",
-  "titel": "Fundstelle der russischen Inschrift",
-  "gruppe": "Gräber und Gedenken",
-  "lat": null,
-  "lon": null,
-  "lage": "noch nicht verortet (Germendorfer Allee, nicht in OpenStreetMap)",
-  "gewissheit": "belegt (Wikipedia)",
-  "text": "2010 wurde beim Abriss einer Holzbaracke eine russische Inschrift der Ukrainerinnen entdeckt. Die Baracke wurde 1948/49 verkauft und an anderer Stelle wieder aufgebaut. Wo sie heute steht, ist zu klären.",
-  "quellen": "Wikipedia, Artikel «KZ-Außenlager Velten».",
-  "foto": null,
-  "personen": null,
-  "region": "velten",
-  "route": "",
-  "rechte": {
-   "text": "eigener Text des Projekts, Tatsachen mit Quelle",
-   "koordinate": "keine",
    "namen": "keine Namen",
    "foto": "kein Foto",
    "status": "frei"
