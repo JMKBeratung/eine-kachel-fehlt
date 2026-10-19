@@ -1,6 +1,6 @@
 # Eine Kachel fehlt
 
-> Gedenkinitiative im Bündnis für Dialog und Toleranz aus Velten (Brandenburg). Online-Karte zu Zwangsarbeit, Verfolgung und KZ-Haft in Velten 1933 bis 1945 sowie zu Auschwitz als Bezugsort. Jeder Eintrag nennt seine Quelle und die Sicherheit der Angabe. Arbeitsstand, nicht abgeschlossen.
+> Gedenkinitiative im Bündnis für Dialog und Toleranz aus Velten (Brandenburg). Online-Karte zu Zwangsarbeit, Verfolgung und KZ-Haft in Velten 1933 bis 1945. Jeder Eintrag nennt seine Quelle und die Sicherheit der Angabe. Arbeitsstand, nicht abgeschlossen.
 
 Wichtige Hinweise für die Nutzung:
 - Die Initiative ist eine Initiative im Bündnis für Dialog und Toleranz und kein Angebot der Stadt Velten oder einer Gedenkstätte.
@@ -41,45 +41,3 @@ Wichtige Hinweise für die Nutzung:
 - [V22 Bahnhalt Hohenschöpping](https://einekachelfehlt.de/ort-v22.html): Der Haltepunkt der Kremmener Bahn bestand von 1938 bis 1998. Das Außenlager lag unmittelbar daneben, hier …
 - [V23 Hinrichtung von Kriegsgefangenen am Tonberg (Zeugenaussage)](https://einekachelfehlt.de/ort-v23.html): Aussagen von 1947/48 in Prozessakten sprechen von der Erschießung von Kriegsgefangenen am Tonberg im Jahr …
 
-## Einträge Auschwitz
-- [S01 Besucherzentrum und Parkplatz](https://einekachelfehlt.de/ort-s01.html)
-- [S02 Tor «Arbeit macht frei»](https://einekachelfehlt.de/ort-s02.html)
-- [S03 Lagerküche](https://einekachelfehlt.de/ort-s03.html)
-- [S04 Appellplatz](https://einekachelfehlt.de/ort-s04.html)
-- [S05 Sammelgalgen (Nachbildung am Appellplatz)](https://einekachelfehlt.de/ort-s05.html)
-- [S06 Block 4: Vernichtung](https://einekachelfehlt.de/ort-s06.html)
-- [S07 Block 5: Hinterlassene Dinge](https://einekachelfehlt.de/ort-s07.html)
-- [S08 Block 10, Block 11 und Schwarze Wand](https://einekachelfehlt.de/ort-s08.html)
-- [S09 Block 13: Sinti und Roma](https://einekachelfehlt.de/ort-s09.html)
-- [S10 Block 27: Shoah und Buch der Namen](https://einekachelfehlt.de/ort-s10.html)
-- [S11 Krematorium I und erste Gaskammer](https://einekachelfehlt.de/ort-s11.html)
-- [S12 Haltestelle Shuttlebus nach Birkenau](https://einekachelfehlt.de/ort-s12.html)
-- [S13 Krankenbau: Blöcke 19, 20, 21 und 28](https://einekachelfehlt.de/ort-s13.html)
-- [S14 Block 26: Kanada I](https://einekachelfehlt.de/ort-s14.html)
-- [S15 Politische Abteilung (Lage laut OSM)](https://einekachelfehlt.de/ort-s15.html)
-- [S16 Lagerkommandantur und Verwaltung](https://einekachelfehlt.de/ort-s16.html)
-- [S17 Dienstvilla des Kommandanten Höß](https://einekachelfehlt.de/ort-s17.html)
-- [B01 Besucherzentrum Birkenau](https://einekachelfehlt.de/ort-b01.html)
-- [B02 Haupttor und Torhaus](https://einekachelfehlt.de/ort-b02.html)
-- [B03 Neue Rampe und Waggon](https://einekachelfehlt.de/ort-b03.html)
-- [B04 Krematorium II und Gaskammer (Ruine)](https://einekachelfehlt.de/ort-b04.html)
-- [B05 Internationales Denkmal](https://einekachelfehlt.de/ort-b05.html)
-- [B06 Krematorium III und Gaskammer (Ruine)](https://einekachelfehlt.de/ort-b06.html)
-- [B07 Abschnitt BIb: Männer- und Frauenlager](https://einekachelfehlt.de/ort-b07.html)
-- [B08 Abschnitt BIa: Frauenlager](https://einekachelfehlt.de/ort-b08.html)
-- [B09 Entlausungsbaracke (zwischen BIa und BIb)](https://einekachelfehlt.de/ort-b09.html)
-- [B10 BIIa: Quarantäne für Männer](https://einekachelfehlt.de/ort-b10.html)
-- [B11 BIIb: Familienlager Theresienstadt](https://einekachelfehlt.de/ort-b11.html)
-- [B12 BIIc: Durchgangslager für Jüdinnen](https://einekachelfehlt.de/ort-b12.html)
-- [B13 BIId: Männerlager](https://einekachelfehlt.de/ort-b13.html)
-- [B14 BIIe: Zigeunerfamilienlager (Sinti und Roma)](https://einekachelfehlt.de/ort-b14.html)
-- [B15 BIIf: Krankenbau für Männer](https://einekachelfehlt.de/ort-b15.html)
-- [B16 Kartoffellager](https://einekachelfehlt.de/ort-b16.html)
-- [B17 Alte Rampe (Alte Judenrampe)](https://einekachelfehlt.de/ort-b17.html)
-- [B18 Hans Gorzelanczyk (Velten 1929, Auschwitz 1943)](https://einekachelfehlt.de/ort-b18.html)
-- [B19 Brunnen der Tränen und Gedenktafeln an der Alten Rampe](https://einekachelfehlt.de/ort-b19.html)
-- [B20 Sauna (Zentralsauna)](https://einekachelfehlt.de/ort-b20.html)
-- [B21 Kanada II (Effektenlager)](https://einekachelfehlt.de/ort-b21.html)
-- [B22 Krematorium IV (Ruine) und Aufstand 7. Oktober 1944](https://einekachelfehlt.de/ort-b22.html)
-- [B23 Krematorium V (Ruine)](https://einekachelfehlt.de/ort-b23.html)
-- [B24 Bunker 2 («Weißes Haus»)](https://einekachelfehlt.de/ort-b24.html)
