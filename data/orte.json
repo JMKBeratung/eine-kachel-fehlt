@@ -117,8 +117,8 @@
   "lon": 13.19999,
   "lage": "Anhaltspunkt an der Kanalstraße 19, wo heute die Gala-Lusit-Betonsteinwerke stehen. Das Werk lag an der Kanalstraße; das Gelände war nach der Reichsbetriebskartei groß (Grundstück rund 66.000 m²), die genaue Abgrenzung ist offen. Die Munitionsfertigung in der früheren Gaststätte Bahnstraße 12 (ab 10/1944) ist ein getrennter Ort.",
   "gewissheit": "belegt",
-  "text": "Waffen- und Munitionsfabrik, 1944 mit rund 1.779 Beschäftigten (Zahl unsicher gelesen). Zwangsarbeitende wohnten auf dem Werksgelände und in Lagern. Für 300 Arbeitskräfte wurde am 25.4.1944 ein Lager beantragt. Auf dem Werksgelände an der Kanalstraße gab es ein Werkslager. Das Lager wurde am 12.12.1942 beantragt, der Lageplan zur Erweiterung ist auf den 31.3.1943 datiert, die Zustimmung kam am selben Tag, abgelehnt wurde nur der Tagesraum der Wache. Weitere Baracken folgten im Oktober 1943, eine Entwesungsanstalt im August 1943.",
-  "quellen": "Reichsbetriebskartei, Bundesarchiv R 3/2001/0270 (Abschrift 2004); BLHA Rep. 2A I Hb 1830, Bild 79; Wikipedia. Bericht eines Hennigsdorfer Heimatforschers vom März 2005 nach BLHA-Akten (Sekundärquelle); Lageplan zur Erweiterung des Barackenlagers, Kanalstraße, 31.3.1943 (Ordner Geschichtsprojekt 2004, nicht veröffentlicht).",
+  "text": "Waffen- und Munitionsfabrik, 1944 mit rund 1.779 Beschäftigten (Zahl unsicher gelesen). Zwangsarbeitende wohnten auf dem Werksgelände und in Lagern. Für 300 Arbeitskräfte wurde am 25.4.1944 ein Lager beantragt. Auf dem Werksgelände an der Kanalstraße gab es ein Werkslager. Das Lager wurde am 12.12.1942 beantragt, der Lageplan zur Erweiterung ist auf den 31.3.1943 datiert, die Zustimmung kam am selben Tag, abgelehnt wurde nur der Tagesraum der Wache. Weitere Baracken folgten im Oktober 1943, eine Entwesungsanstalt im August 1943. Inhaber und Betriebsführer war nach dem Werkalbum von etwa 1940 Dietrich Stahl, ausgezeichnet als Wehrwirtschaftsführer. Die Albumfotos zeigen das Werk als Musterbetrieb mit Gewächshaus und Innenhöfen; Zwangsarbeit und Lager kommen auf ihnen nicht vor. Die Datierung «um 1940» folgt dem Vorwort des Albums, die Fotos selbst tragen kein Datum.",
+  "quellen": "Reichsbetriebskartei, Bundesarchiv R 3/2001/0270 (Abschrift 2004); BLHA Rep. 2A I Hb 1830, Bild 79; Wikipedia. Bericht eines Hennigsdorfer Heimatforschers vom März 2005 nach BLHA-Akten (Sekundärquelle); Lageplan zur Erweiterung des Barackenlagers, Kanalstraße, 31.3.1943 (Ordner Geschichtsprojekt 2004, nicht veröffentlicht). Werkalbum um 1940, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf (Fotos, Veröffentlichung mit Zustimmung der Familie).",
   "foto": null,
   "personen": null,
   "region": "velten",
@@ -126,10 +126,72 @@
   "rechte": {
    "text": "eigener Text des Projekts, Tatsachen mit Quelle",
    "koordinate": "keine",
-   "namen": "keine Namen",
-   "foto": "kein Foto",
+   "namen": "Name des Betriebsführers (Dietrich Stahl) nach Bildunterschrift im Werkalbum, Veröffentlichung auf Entscheidung von Jens-Martin Krieg",
+   "foto": "Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf; Veröffentlichung mit Zustimmung der Familie; Atelierstempel Max Krajewsky",
    "status": "frei"
-  }
+  },
+  "bilder": [
+   {
+    "datei": "bergmann-werksschild.jpg",
+    "alt": "Metallschild mit gotischer Schrift",
+    "beschr": "Werksschild am Haupteingang: «Theodor Bergmann Kommanditgesellschaft, Werk Velten»",
+    "quelle": "Quelle: Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, Werkalbum um 1940 (Bildtitel nach dem Album), Atelierstempel «Max Krajewsky, Lichtbildwerkstatt, Charlottenburg». Veröffentlicht mit Zustimmung der Familie von Dr. Helmut Fritsch"
+   },
+   {
+    "datei": "bergmann-haupteingang-1940.jpg",
+    "alt": "Torhaus mit Wachposten, Schild und eisernem Tor, dahinter ein zweistöckiges Gebäude mit Turm",
+    "beschr": "Haupteinfahrt des Werks mit Torhaus und Verwaltungsgebäude",
+    "quelle": "Quelle: Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, Werkalbum um 1940 (Bildtitel nach dem Album), Atelierstempel «Max Krajewsky, Lichtbildwerkstatt, Charlottenburg». Veröffentlicht mit Zustimmung der Familie von Dr. Helmut Fritsch"
+   },
+   {
+    "datei": "bergmann-eingang.jpg",
+    "alt": "Torbogen mit Gittertür und zwei Tafeln an der Wand",
+    "beschr": "Eingang des Werks. Ein handschriftlicher Zusatz auf dem Albumblatt nennt ein «Gaudiplom für hervorragende Leistungen» der Deutschen Arbeitsfront (DAF)",
+    "quelle": "Quelle: Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, Werkalbum um 1940 (Bildtitel nach dem Album), Atelierstempel «Max Krajewsky, Lichtbildwerkstatt, Charlottenburg». Veröffentlicht mit Zustimmung der Familie von Dr. Helmut Fritsch"
+   },
+   {
+    "datei": "bergmann-innenhof.jpg",
+    "alt": "Blick durch eine offene Tür auf einen Innenhof mit Beeten, Gebäuden und Turm",
+    "beschr": "Durchblick auf einen Innenhof des Werks",
+    "quelle": "Quelle: Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, Werkalbum um 1940 (Bildtitel nach dem Album), Atelierstempel «Max Krajewsky, Lichtbildwerkstatt, Charlottenburg». Veröffentlicht mit Zustimmung der Familie von Dr. Helmut Fritsch"
+   },
+   {
+    "datei": "bergmann-gewaechshaus.jpg",
+    "alt": "Langes Gewächshaus mit Blumentöpfen auf Regalen",
+    "beschr": "Eigenes Gewächshaus zur Versorgung des Betriebes mit frischen Blumen (Bildtitel im Album)",
+    "quelle": "Quelle: Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, Werkalbum um 1940 (Bildtitel nach dem Album), Atelierstempel «Max Krajewsky, Lichtbildwerkstatt, Charlottenburg». Veröffentlicht mit Zustimmung der Familie von Dr. Helmut Fritsch"
+   },
+   {
+    "datei": "bergmann-munitionsfertigung.jpg",
+    "alt": "Große Fertigungshalle, Frauen sortieren Patronen an langen Tischen",
+    "beschr": "«Frauen bei Handarbeit» (Bildtitel im Album): Frauen in der Munitionsfertigung",
+    "quelle": "Quelle: Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, Werkalbum um 1940 (Bildtitel nach dem Album), Atelierstempel «Max Krajewsky, Lichtbildwerkstatt, Charlottenburg». Veröffentlicht mit Zustimmung der Familie von Dr. Helmut Fritsch"
+   },
+   {
+    "datei": "bergmann-revision.jpg",
+    "alt": "Lange Halle mit Maschinen, Frauen kontrollieren Patronenhülsen",
+    "beschr": "«Revisionsarbeiten von Frauen» (Bildtitel im Album): Kontrolle von Munitionsteilen",
+    "quelle": "Quelle: Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, Werkalbum um 1940 (Bildtitel nach dem Album), Atelierstempel «Max Krajewsky, Lichtbildwerkstatt, Charlottenburg». Veröffentlicht mit Zustimmung der Familie von Dr. Helmut Fritsch"
+   },
+   {
+    "datei": "bergmann-verpackung.jpg",
+    "alt": "Arbeitsplätze mit einer Verpackungsmaschine in der Fertigungshalle",
+    "beschr": "«Maschinelle Verpackung» (Bildtitel im Album)",
+    "quelle": "Quelle: Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, Werkalbum um 1940 (Bildtitel nach dem Album), Atelierstempel «Max Krajewsky, Lichtbildwerkstatt, Charlottenburg». Veröffentlicht mit Zustimmung der Familie von Dr. Helmut Fritsch"
+   },
+   {
+    "datei": "bergmann-werkschar.jpg",
+    "alt": "Gruppenfoto der Werkschar in Uniform mit Fahne",
+    "beschr": "«Werkschar Velten» (Bildtitel im Album): eine uniformierte Gruppe der Deutschen Arbeitsfront (DAF) im Werk",
+    "quelle": "Quelle: Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, Werkalbum um 1940 (Bildtitel nach dem Album), Atelierstempel «Max Krajewsky, Lichtbildwerkstatt, Charlottenburg». Veröffentlicht mit Zustimmung der Familie von Dr. Helmut Fritsch"
+   },
+   {
+    "datei": "bergmann-betriebsfuehrer.jpg",
+    "alt": "Porträtfoto eines Mannes im Anzug am Schreibtisch",
+    "beschr": "Dietrich Stahl, Wehrwirtschaftsführer, Inhaber und Betriebsführer des Werks (Bildunterschrift im Album)",
+    "quelle": "Quelle: Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, Werkalbum um 1940 (Bildtitel nach dem Album), Atelierstempel «Max Krajewsky, Lichtbildwerkstatt, Charlottenburg». Veröffentlicht mit Zustimmung der Familie von Dr. Helmut Fritsch"
+   }
+  ]
  },
  {
   "id": "V08",
