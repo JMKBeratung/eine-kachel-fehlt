@@ -55,7 +55,39 @@
       "namen": "keine Namen",
       "foto": "kein Foto",
       "status": "frei"
-    }
+    },
+    "bilder": [
+      {
+        "datei": "ikaria-hallen-laderampe.jpg",
+        "alt": "Backsteinhalle mit mehreren Sheddächern, davor eine Laderampe mit Treppe, blauer Himmel",
+        "beschr": "Hallen auf dem Gelände: Sheddächer (Sägezahndächer) über der Längsseite mit Laderampe.",
+        "quelle": "Foto: Jens-Martin Krieg, 22.12.2023"
+      },
+      {
+        "datei": "ikaria-hallen-sheddaecher.jpg",
+        "alt": "Lange Reihe von Sheddächern an einer Halle, rechts eine betonierte Fahrbahn",
+        "beschr": "Hallen auf dem Gelände: die Reihe der Sheddächer in der Ansicht entlang der Längsseite.",
+        "quelle": "Foto: Jens-Martin Krieg, 22.12.2023"
+      },
+      {
+        "datei": "ikaria-halle-giebel.jpg",
+        "alt": "Halle mit Backsteinpfeilern und Giebelwand, links Sheddächer, davor geparkte Autos",
+        "beschr": "Hallen auf dem Gelände: Giebelseite einer Halle, links die Sheddächer.",
+        "quelle": "Foto: Jens-Martin Krieg, 22.12.2023"
+      },
+      {
+        "datei": "ikaria-halle-innen-stuetzen.jpg",
+        "alt": "Innenraum einer Halle mit hölzernen Stützen, Dachstuhl und gestapelten Paletten",
+        "beschr": "Hallen auf dem Gelände: Innenraum einer Halle mit Holzstützen und Dachstuhl.",
+        "quelle": "Foto: Jens-Martin Krieg, 22.12.2023"
+      },
+      {
+        "datei": "ikaria-halle-innen-durchfahrt.jpg",
+        "alt": "Gemauerter Durchgang mit roter Aufschrift über der Öffnung, dahinter Schutt und Paletten",
+        "beschr": "Hallen auf dem Gelände: Innenraum, über der Durchfahrt die Aufschrift «Achtung Durchfahrtshöhe 2,40 Meter».",
+        "quelle": "Foto: Jens-Martin Krieg, 22.12.2023"
+      }
+    ]
   },
   {
     "id": "V04",
