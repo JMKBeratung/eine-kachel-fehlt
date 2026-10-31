@@ -214,7 +214,7 @@
     "lage": "ungefähr: Bötzower Straße 205 (BLHA-Titel, OpenStreetMap-Punkt). Die Bauanträge von 1943 und 1944 nennen als Firmenanschrift Bötzower Straße 137 und als Baugrundstück Nr. 105, die Reichsbetriebskarte Nr. 137. Welche Nummer wann galt, ist offen; alle können dasselbe Gelände meinen.",
     "gewissheit": "belegt",
     "text": "Herstellung von Leucht- und Signalmunition, im August 1943 mit 250 Beschäftigten. Am 3.7.1943 wurde ein Barackenlager genehmigt. Mit Bauanträgen vom 17.4.1943 und 24.11.1944 beantragte die Firma Baracken für weibliche ausländische Arbeitskräfte: 1943 eine Wirtschaftsbaracke und eine kleine Abortbaracke, 1944 eine Wohnbaracke und eine weitere vierteilige Abortbaracke. Die Baracken stellten der Baubevollmächtigte des Reichsministeriums Speer und die OT-Einsatzleitung Brandenburg zur Verfügung.",
-    "quellen": "Reichsbetriebskartei, Bundesarchiv R 3/2001/0270 (Abschrift 2004); BLHA Rep. 2A I Hb 1830, Bild 33. Bauanträge 17.4.1943 und 24.11.1944 (Abschriften aus Bauakten, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf). Presse: H. Fritsch, „Topographie der Zwangsarbeiterlager in Velten wird klarer“, Oranienburger Generalanzeiger, 29.5.2002; H. Fritsch, „Evangelisches Johannesstift einst Lager für Zwangsarbeiter“, Oranienburger Generalanzeiger, 2002 (Datum nicht sicher lesbar). Lagepläne 9.2.1943 und 24.11.1944 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-II_044 und 035). Luftbilder 26.3. und 7.4.1945 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-II_014 und 015).",
+    "quellen": "Reichsbetriebskartei, Bundesarchiv R 3/2001/0270 (Abschrift 2004); BLHA Rep. 2A I Hb 1830, Bild 33. Bauanträge 17.4.1943 und 24.11.1944 (Abschriften aus Bauakten, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf). Presse: H. Fritsch, „Topographie der Zwangsarbeiterlager in Velten wird klarer“, Oranienburger Generalanzeiger, 29.5.2002; H. Fritsch, „Evangelisches Johannesstift einst Lager für Zwangsarbeiter“, Oranienburger Generalanzeiger, 2002 (Datum nicht sicher lesbar). Lagepläne 9.2.1943 und 24.11.1944 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-II_044 und 035). Luftbilder 26.3. und 7.4.1945 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-II_014 und 015). Bauzeichnung 17.4.1943 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-II_026).",
     "foto": null,
     "personen": null,
     "region": "velten",
@@ -244,6 +244,12 @@
         "alt": "Schwarzweißes Luftbild eines Geländes mit Feldern, Gebäuden und Straßen, Aufnahme vom 7.4.1945",
         "beschr": "Luftbild «Fa. Deichmann Velten», Aufnahme vom 7.4.1945, Maßstab ca. 1:4500, mit einem Lichtstreifen durch die Kopie. Nach dem Bildtext der Vorlage (Abb. 2) wurde ein Teil des Produktionsgeländes und der Pulverschuppen vermutlich durch Brandlegung selbst zerstört. Die Aufnahme vom 26.3.1945 (Abb. 1, nur als Streifen erhalten) nennt das Betriebsgelände unzerstört, mit vier Baracken für Fremdarbeiter südlich der «Roten Villa» und einem überdeckten Splittergraben im Park. Der Verfasser der Auswertung ist unbekannt",
         "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 015 und 014. Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "deichmann-wirtschaftsbaracke-1943-04-17.jpg",
+        "alt": "Bauzeichnung einer Wirtschaftsbaracke mit Ansichten, Schnitten und Grundriss sowie eines kleinen Toilettenhauses",
+        "beschr": "Bauzeichnung «Wirtschaftsbaracke und Toiletten», Lager der Firma Deichmann, Velten (Mark), Bötzower Straße 105, gezeichnet am 17.4.1943, Maßstab 1:100, beim Bürgermeister eingegangen am 19.4.1943. Die Baracke misst etwa 19,8 mal 8,14 m und enthält Gemeinschaftsraum, Küche und Waschraum; daneben steht ein kleines Toilettenhaus mit vier Kabinen (3,50 mal 1,39 m)",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 026 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
       }
     ]
   },
@@ -321,8 +327,8 @@
     "lon": 13.199,
     "lage": "Anhaltspunkt am Heidekrug (Ortsteil laut OpenStreetMap), aus Plänen abgeleitet, nicht eingemessen. Das Lager lag nach der Überlieferung «auf der Wiese am Heidekrug». Der Lageplan «Heidekruglager» (1:500, 12.4.1944) zeigt ein Grundstück am «Falkenhagener Forst» neben dem Grundstück der Gaststätte Heidekrug, der Plan «Industriegelände Velten» setzt die Gaststätte an die Pinnower Chaussee im Nordosten des Industriegeländes. Der frühere Punkt an der Kanalstraße lag rund 600 m weiter südwestlich und ist nicht belegt. Ob das Lager innerhalb oder außerhalb des Werksgeländes lag, ist offen. Das Werk ist ein eigener Eintrag (V07).",
     "gewissheit": "belegt",
-    "text": "Am 28.4.1943 lebten in Baracken auf der Wiese am Heidekrug 67 Kroaten und Slowaken sowie 40 Ostarbeiter. Der Lageplan vom 31.3.1943 gehört zum Werkslager auf dem Werksgelände an der Kanalstraße (siehe V07). Für das Lager am Heidekrug, einen Massivbau für 300 Ostarbeiter, wurde am 25.4.1944 ein Antrag gestellt, die Zustimmung kam am 6.5.1944.",
-    "quellen": "Ordner Geschichtsprojekt 2004 (Material Bergmann); Bericht eines Hennigsdorfer Heimatforschers vom März 2005 nach BLHA-Akten (Sekundärquelle). Presse: H. Fritsch, „Erstes massives Zwangsarbeiterlager stand am Heidekrug“, Oranienburger Generalanzeiger, 2002 (Datum nicht sicher lesbar). Lageplan «Heidekruglager», 12.4.1944 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA26-I_068).",
+    "text": "Am 28.4.1943 lebten in Baracken auf der Wiese am Heidekrug 67 Kroaten und Slowaken sowie 40 Ostarbeiter. Der Lageplan vom 31.3.1943 gehört zum Werkslager auf dem Werksgelände an der Kanalstraße (siehe V07). Für das Lager am Heidekrug, einen Massivbau für 300 Ostarbeiter, wurde am 25.4.1944 ein Antrag gestellt, die Zustimmung kam am 6.5.1944. Das Schreiben des Baubevollmächtigten vom 25.4.1944 und eine Bauzeichnung der Firma sind erhalten: zehn Stuben mit je «30 Mann», zusammen 300 Personen.",
+    "quellen": "Ordner Geschichtsprojekt 2004 (Material Bergmann); Bericht eines Hennigsdorfer Heimatforschers vom März 2005 nach BLHA-Akten (Sekundärquelle). Presse: H. Fritsch, „Erstes massives Zwangsarbeiterlager stand am Heidekrug“, Oranienburger Generalanzeiger, 2002 (Datum nicht sicher lesbar). Lageplan «Heidekruglager», 12.4.1944 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA26-I_068). Schreiben des Baubevollmächtigten 25.4.1944 und Bauzeichnung Massivbaracke (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA26-I_075 und 011).",
     "foto": null,
     "personen": null,
     "region": "velten",
@@ -340,6 +346,18 @@
         "alt": "Lageplan «Heidekruglager» mit zwei großen Baracken, kleineren Gebäuden, Bäumen und Stempel des Regierungspräsidenten",
         "beschr": "Lageplan «Heidekruglager» der Theodor Bergmann & Co. KG, Velten, Maßstab 1:500, mit Vermerk des Baubevollmächtigten im Bezirk der Rüstungsinspektion III (Brandenburg), Velten (Mark), 12.4.1944, und Stempel «Gehört zum Zustimmungsbescheid des Regierungspräsidenten Potsdam» (Datum überschrieben, nicht sicher lesbar). Das Grundstück grenzt oben an den «Falkenhagener Forst». Zwei große und mehrere kleine Baracken sind eingezeichnet. Der handschriftliche Name einer Grundstückseigentümerin ist unkenntlich gemacht",
         "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF025 (ZWA26) I, Bild 068 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "bergmann-massivbau-schreiben-1944-04-25.jpg",
+        "alt": "Maschinengeschriebenes Schreiben des Baubevollmächtigten an den Regierungspräsidenten in Potsdam vom 25. April 1944",
+        "beschr": "Schreiben des Baubevollmächtigten im Bezirk der Rüstungsinspektion III (Brandenburg) an den Regierungspräsidenten in Potsdam vom 25.4.1944, Betreff «Ortsfeste Massivbauweise Lager Velten»: Für die Firma Theodor Bergmann & Co. KG, Werk Velten/Mark, wird zur Unterbringung von 300 Arbeitskräften ein Lager in ortsfester Massivbauweise errichtet, um Zustimmung nach den beigefügten Plänen wird gebeten. Planung und Bauleitung liegen beim Baubevollmächtigten. Der Aktenstempel «Kopie Brandenburgisches Landeshauptarchiv» steht auf der Vorlage; die Unterschrift ist unkenntlich gemacht",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF025 (ZWA26) I, Bild 075 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "bergmann-heidekrug-baracke.jpg",
+        "alt": "Bauzeichnung einer langen Baracke mit zehn nummerierten Räumen, Querschnitt und Ansicht",
+        "beschr": "Bauzeichnung «Massiv-Baracke zur Freigabe», Theodor Bergmann & Co., Velten (Mark), «Lager Heidekrug», Maßstab 1:100. Der Grundriss zeigt zehn nummerierte Stuben, in jeder ist «30 Mann» eingetragen, das ergibt 300 Personen und passt zu der Zahl im Schreiben vom 25.4.1944. Dazu gehören Querschnitt und Längsansicht. Die Vorlage ist eine Kopie, die Beschriftung teils schwer lesbar",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF025 (ZWA26) I, Bild 011 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
       }
     ]
   },
@@ -352,7 +370,7 @@
     "lage": "Anhaltspunkt am Veltener Stichkanal, aus Plänen abgeleitet, nicht eingemessen (Abweichung bis etwa 150 m). Der Lageplan der Veltener Maschinenbau GmbH (gezeichnet 29.8.1942, Bauschein Nr. 216; Ordner Geschichtsprojekt 2004) zeigt die Baracken Nr. 26 bis 38 mit eigener Umzäunung und Kläranlage zwischen den Hallen I bis III und dem Stichkanal. Das Luftbild vom 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) trägt dort in der Legende von Jens-Martin Krieg «Baracken Ikaria». Früher stand der Punkt an der Berliner Straße 13 (OpenStreetMap); diese Anschrift (Berliner Straße 13/14) nennen Sterberegister und Reichsbetriebskarte, das Lager lag aber am Kanal. Prüfung am 31.10.2026 gegen OpenStreetMap: Der Veltener Stichkanal liegt rund 50 m nördlich des Punkts, die Berliner Straße rund 150 m südwestlich; das passt zur Lage der Baracken zwischen Kanal und Hallen (Pläne 1942). Der Punkt wurde gegenüber dem Stand vom 30.10.2026 um etwa 120 m nach Osten gerückt.",
     "gewissheit": "wahrscheinlich, Lage aus Plänen abgeleitet",
     "text": "Zivilarbeiterlager der beiden Werke. Eine Zeitzeugin nennt über 1000 Personen, was nicht aktenkundig ist. Im Sterberegister steht diese Anschrift bei mindestens 12 Todesfällen von 1942 bis 1945 (Auswahl bis Februar 1945). Nach der Baubeschreibung vom 5.2.1944 (siehe V05) standen im Lager der Veltener Maschinenbau neun Wohnbaracken mit je 54 Ostarbeiterinnen.",
-    "quellen": "Sterberegister Velten (Abschrift 2004); Briefe 2004 (Erinnerung); Projektrecherche Velten (Stand 8.10.2026). Baubeschreibung 5.2.1944 (Abschriften aus Bauakten, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf); Lageplan Veltener Maschinenbau 29.8.1942; Katasterauszug Flurstücke VeMa 27.5.1942; Luftbild Velten 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) mit handschriftlicher Legende, nicht bestätigt. Pläne als Abbildung: siehe Bildunterschriften. Presse: H. Fritsch, „Topographie der Zwangsarbeiterlager in Velten wird klarer“, Oranienburger Generalanzeiger, 29.5.2002; H. Fritsch, „Abwasserpläne führten auf die richtige Spur“, Oranienburger Generalanzeiger, Mai 2002. Lageplan Barackenlager Veltener-Maschinenbau-Ikaria-Werke, 2.6.1942 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-II_062).",
+    "quellen": "Sterberegister Velten (Abschrift 2004); Briefe 2004 (Erinnerung); Projektrecherche Velten (Stand 8.10.2026). Baubeschreibung 5.2.1944 (Abschriften aus Bauakten, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf); Lageplan Veltener Maschinenbau 29.8.1942; Katasterauszug Flurstücke VeMa 27.5.1942; Luftbild Velten 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) mit handschriftlicher Legende, nicht bestätigt. Pläne als Abbildung: siehe Bildunterschriften. Presse: H. Fritsch, „Topographie der Zwangsarbeiterlager in Velten wird klarer“, Oranienburger Generalanzeiger, 29.5.2002; H. Fritsch, „Abwasserpläne führten auf die richtige Spur“, Oranienburger Generalanzeiger, Mai 2002. Lageplan Barackenlager Veltener-Maschinenbau-Ikaria-Werke, 2.6.1942 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-II_062). Bauantrag 11.12.1942, Baubeschreibung 5.2.1944, Zeichnungen Abborthaus und Einzäunung (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-I_018, ZWA25-II_057, 059 und 055).",
     "foto": null,
     "personen": null,
     "region": "velten",
@@ -382,6 +400,30 @@
         "alt": "Lageplan mit zwei Reihen nummerierter Baracken, Waschraum und Nebengebäuden zwischen Stichkanal und Berliner Straße",
         "beschr": "Lageplan des Barackenlagers der Veltener-Maschinenbau-Ikaria-Werke, Maßstab 1:1000, bei der Stadt eingegangen am 2.6.1942, geprüft am 24.6.1942. Zwischen dem Veltener Stichkanal (oben) und der Berliner Straße (unten) stehen die Baracken 4 bis 11 in zwei Reihen mit Hauptweg I und II, dazu Waschraum, Klosettanlage, Heizung, Trafo und die Baracken 2 und 3. Rechts liegt die Velma. Es ist ein anderer Plan als der vom 29.8.1942 oben; die Zählung der Baracken weicht ab",
         "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 062 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "vema-baubeschreibung-1944-02-05.jpg",
+        "alt": "Maschinengeschriebene Baubeschreibung für ein Barackenlager für Ostarbeiterinnen, Velten, 5. Februar 1944",
+        "beschr": "Baubeschreibung der Veltener Maschinenbau GmbH «für Barackenlager für Ostarbeiterinnen», Velten, 5.2.1944. Die Baracken Nr. 6 bis 29 und 31 bis 38 sind RAD-Baracken, die der Baubevollmächtigte des Ministeriums Speer lieferte, ebenso die Baracke Nr. 30. Neun Wohnbaracken sind mit je 54 Ostarbeiterinnen belegt, rechnerisch 486 Frauen. Nr. 28 ist eine Abortbaracke mit 20 Toiletten, Nr. 29 enthält Werkküche, Vorrats- und Kartoffelkeller und Waschraum, Nr. 30 dient als Aufenthalts- und Speiseraum, in Nr. 36 sind Wohnraum der Lagerführerin, Lagerärztin, Lagerwache (Lesung nicht ganz sicher) und die Revierstube untergebracht. Das Lager liegt innerhalb des Werkgeländes und ist nur vom Werk aus zu betreten; auf der Kanalseite ist ein Tor, die Abwässer gehen über die Kläranlage der Ikaria-Werke in den Veltener Stichkanal. Unterschrift und Handzeichen sind unkenntlich gemacht",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 057 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "vema-bauantrag-1942-12-11.jpg",
+        "alt": "Formular «Bauantrag» der Veltener Maschinenbau GmbH vom 11. Dezember 1942 mit Eingangsstempel des Bürgermeisters",
+        "beschr": "Bauantrag der Veltener Maschinenbau GmbH an den Landrat in Nauen vom 11.12.1942 «zum Bau eines Wohnbarackenlagers für ausländische Arbeitskräfte» in Velten, Berliner Straße Nr. 14, mit vier Lageplänen und vier Bauzeichnungen; beim Bürgermeister eingegangen am 15.12.1942. Das Gelände wurde für die Kriegsdauer gepachtet, auch das Lager ist nur für die Kriegsdauer vorgesehen. Der Name des Verpächters und die Unterschrift sind unkenntlich gemacht",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) I, Bild 018 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "vema-abborthaus.jpg",
+        "alt": "Bauzeichnung eines Abborthauses mit Grundriss, Querschnitt, Giebel- und Längsansicht",
+        "beschr": "Bauzeichnung «Abborthaus», Maßstab 1:100, mit Stempel der Veltener Maschinenbau GmbH und Stempel «Gehört zum Bauschein» (Nummer und Datum nicht sicher lesbar). Der Grundriss misst rund 4,5 mal 4,6 m und trennt die Toilettenstände nach den Beschriftungen «Mannschaften» und «Führer». Die Vorlage ist um 180 Grad gedreht, eine Unterschrift unkenntlich gemacht",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 059 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "vema-einzaeunung-1943-03-26.jpg",
+        "alt": "Technische Zeichnung eines Holzzauns mit Pfosten und Latten, Maße in Metern",
+        "beschr": "Zeichnung «Einzäunung des Barackenlagers III (Holzzaun) der Veltener Maschinenbau GmbH», beim Bürgermeister eingegangen am 26.3.1943. Dargestellt sind Zaunfeld, Pfosten und Latten mit Maßen; am Kopf des Zauns sind zwei Reihen mit Kreuzen eingezeichnet, vermutlich Stacheldraht (Deutung nicht gesichert). Die Vorlage ist gedreht, eine Unterschrift unkenntlich gemacht",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 055 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
       }
     ]
   },
@@ -985,7 +1027,7 @@
     "lage": "ungefähr: Der Haltepunkt lag laut Wikipedia unmittelbar am Lager (der Weiler Hohenschöpping liegt rund 2 km östlich). Lage nach Ortskenntnis von Jens-Martin Krieg (19.10.2026): Haltepunkt der Kremmener Bahn westlich des Lagerpunkts V01. Grobe Schätzung, nicht eingemessen.",
     "gewissheit": "belegt",
     "text": "Der Haltepunkt der Kremmener Bahn bestand von 1938 bis 1998. Das Außenlager lag unmittelbar daneben, hier kamen die Frauen an.",
-    "quellen": "kremmener-bahn.net; Wikipedia, Artikel «KZ-Außenlager Velten». Lageplan Dürener Metallwerke, Werk Velten, 1941 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA26-I_039).",
+    "quellen": "kremmener-bahn.net; Wikipedia, Artikel «KZ-Außenlager Velten». Lageplan Dürener Metallwerke, Werk Velten, 1941 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA26-I_039). Bauzeichnung 30.9.1940 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-I_098).",
     "foto": null,
     "personen": null,
     "region": "velten",
@@ -1003,6 +1045,12 @@
         "alt": "Lageplan mit Berliner Straße, Reichsbahnstrecke, Muhrgraben, Fabrikhalle, Lagerschuppen und einer Wohnbaracke",
         "beschr": "Lageplan der Dürener Metallwerke AG, Werk Velten, am Bahnhof Hohenschöpping, Maßstab 1:2000, Prüfvermerk vom 23.4.1941, Bauschein vom Mai 1941. Eingezeichnet sind die Berliner Straße, die Strecke der Reichsbahn, der Muhrgraben mit Weg, eine Fabrikhalle, Lagerschuppen, zwei Lagerhäuser, eine Verkaufshalle und eine Wohnbaracke. Die Kopfzeile des Blattes mit dem Namen des früheren Grundstücks ist abgeschnitten",
         "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF025 (ZWA26) I, Bild 039 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "duerener-baracke-1940-09-30.jpg",
+        "alt": "Bauzeichnung einer langen Baracke mit Grundriss und Ansicht",
+        "beschr": "Bauzeichnung einer Baracke der Dürener Metallwerke AG, Bauabteilung, datiert 30.9.1940, Maßstab 1:100, mit Stempel «Gehört zum Bauschein» (Nummer und Datum nicht sicher lesbar). Der Grundriss misst etwa 30,16 mal 8 m, mit zwei Eingangsvorbauten und Trennwänden, die Ansicht zeigt einen Ziegelsockel. Die handschriftliche Grundstücksangabe oben ist nicht sicher lesbar, ob es die im Lageplan von 1941 eingezeichnete Wohnbaracke ist, geht aus dem Blatt nicht hervor. Die Vorlage ist um 180 Grad gedreht",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) I, Bild 098 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
       }
     ]
   },
@@ -1118,8 +1166,8 @@
     "lon": 13.1868,
     "lage": "ungefähr: kleines Gelände am Rand des Hafenbeckens. Die Akte nennt «Hafenplatz» ohne Hausnummer. Lage aus dem Luftbild von 1945 abgeleitet (Abweichung bis etwa 150 m), nicht eingemessen.",
     "gewissheit": "belegt (Akte), Lage wahrscheinlich",
-    "text": "Ein Gemeinschaftslager auf dem Grundstück der Stadt Velten am Hafenplatz ist durch Bauakten belegt. Die Firma Gebr. Döscher (Dampfsägewerk, Breite Straße) beantragte es nach dem Merkblatt zur Bauvorprüfung vom 19. März 1940 «für 8 Veltener Industriewerke». Es sollte nur vorübergehend ein Gemeinschaftslager sein, eine Einzäunung war nicht vorgesehen. Am 15. Januar 1941 nennt der Fragebogen zu einem Heizhaus an dieser Stelle es «Gemeinschaftslager für Kriegsgefangene». Wer dort untergebracht war und wie lange, ist nicht belegt.\n\nAuf dem Luftbild vom 22. März 1945 ist am Rand des Hafenbeckens ein kleines Gelände markiert, das die handschriftliche Legende des Projekts als «Gemeinschaftslager (Pantinenfabrik von Lemm?)» bezeichnet. Dass es sich um dasselbe Lager handelt, ist wahrscheinlich, aber nicht bewiesen. Das Fernsprechbuch von 1938 nennt eine Pantinenfabrik Lemme nur in der Wilhelmstraße 6.",
-    "quellen": "Merkblatt zur Bauvorprüfung (19.3.1940) und Fragebogen zum Bauvorhaben (15.1.1941), Bauakten der Stadt Velten (Abschriften aus Bauakten, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf); Luftbild Velten vom 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) mit handschriftlicher Legende von Jens-Martin Krieg, Legende teils schwer lesbar und nicht bestätigt; Fernsprechbuch Velten (Mark) 1938.",
+    "text": "Ein Gemeinschaftslager auf dem Grundstück der Stadt Velten am Hafenplatz ist durch Bauakten belegt. Die Firma Gebr. Döscher (Dampfsägewerk, Breite Straße) beantragte es nach dem Merkblatt zur Bauvorprüfung vom 19. März 1940 «für 8 Veltener Industriewerke». Es sollte nur vorübergehend ein Gemeinschaftslager sein, eine Einzäunung war nicht vorgesehen. Am 15. Januar 1941 nennt der Fragebogen zu einem Heizhaus an dieser Stelle es «Gemeinschaftslager für Kriegsgefangene». Wer dort untergebracht war und wie lange, ist nicht belegt. Ein Vermerk des Stadtbauamts vom 14.6.1940 spricht von der Benutzung von Stadtgelände für Baracken zur Unterbringung von Zivilpolen u. a.; ob dieses Gelände gemeint ist, nennt der Vermerk nicht.\n\nAuf dem Luftbild vom 22. März 1945 ist am Rand des Hafenbeckens ein kleines Gelände markiert, das die handschriftliche Legende des Projekts als «Gemeinschaftslager (Pantinenfabrik von Lemm?)» bezeichnet. Dass es sich um dasselbe Lager handelt, ist wahrscheinlich, aber nicht bewiesen. Das Fernsprechbuch von 1938 nennt eine Pantinenfabrik Lemme nur in der Wilhelmstraße 6.",
+    "quellen": "Merkblatt zur Bauvorprüfung (19.3.1940) und Fragebogen zum Bauvorhaben (15.1.1941), Bauakten der Stadt Velten (Abschriften aus Bauakten, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf); Luftbild Velten vom 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) mit handschriftlicher Legende von Jens-Martin Krieg, Legende teils schwer lesbar und nicht bestätigt; Fernsprechbuch Velten (Mark) 1938. Vermerk des Stadtbauamts 14.6.1940 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA26-I_050); Schreiben des Landrats 9.7.1941 (ZWA25-II_063).",
     "foto": null,
     "personen": null,
     "region": "velten",
@@ -1130,6 +1178,20 @@
       "namen": "keine Namen",
       "foto": "kein Foto",
       "status": "frei"
-    }
+    },
+    "bilder": [
+      {
+        "datei": "stadtbauamt-vermerk-1940-06-14.jpg",
+        "alt": "Handschriftlicher Vermerk des Stadtbauamts Velten vom 14. Juni 1940",
+        "beschr": "Handschriftlicher Vermerk des Stadtbauamts Velten vom 14.6.1940. Betreff: Benutzung von Stadtgelände zur Aufstellung von Baracken zur Unterbringung von Zivilpolen u. a. Nach Rücksprache mit dem Bürgermeister soll eine Anerkennungsgebühr gezahlt werden (Betrag nach Lesung 25 Pfg., nicht sicher). Welches Gelände gemeint ist, nennt der Ausschnitt nicht; der untere Teil der Seite mit Namen ist weggelassen",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF025 (ZWA26) I, Bild 050 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "landrat-polnische-arbeitskraefte-1941-07-09.jpg",
+        "alt": "Maschinengeschriebenes Schreiben des Landrats des Kreises Osthavelland an den Regierungspräsidenten in Potsdam vom 9. Juli 1941",
+        "beschr": "Schreiben des Landrats des Kreises Osthavelland (Nauen) an den Regierungspräsidenten in Potsdam vom 9.7.1941, Betreff «Polnische Arbeitskräfte». Der Landrat hält Bestimmungen für notwendig, die «Zivilpolen» die Benutzung von Fahrrädern und Rundfunkanlagen verbieten, und begründet das mit abwertenden Aussagen über Polen. Das Blatt zeigt den Ton der Behörden gegenüber den Zwangsarbeitern, es nennt keinen Ort in Velten und gehört deshalb nicht zu einem einzelnen Lager. Die Unterschrift ist unkenntlich gemacht",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 063 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      }
+    ]
   }
 ]
