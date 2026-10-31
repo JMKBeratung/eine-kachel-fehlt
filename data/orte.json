@@ -1384,9 +1384,17 @@
       "text": "eigener Text des Projekts, Tatsachen mit Quelle",
       "koordinate": "OpenStreetMap, ODbL (Näherung)",
       "namen": "keine Namen",
-      "foto": "kein Foto",
-      "status": "frei"
-    }
+      "foto": "Foto von Jens-Martin Krieg; Inhalt der Tafel Dritter (Archivbild, Plan), Rechte nicht abschließend geklärt",
+      "status": "bedingt frei"
+    },
+    "bilder": [
+      {
+        "datei": "ofenfabrik-tafel-standort-14.jpg",
+        "alt": "Blau gerahmte Informationstafel mit einem historischen Foto einer mehrgeschossigen Backsteinfabrik, darunter Text und ein alter Stadtplan",
+        "beschr": "Infotafel Standort 14 des Ofenfabrik-Rundwegs: Ansicht der Ofenfabrik Richard Blumenfeld AG, Friedrichstraße 32, 1905.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023. Inhalt der Tafel: Betreiber des Rundwegs, Rechte an Archivbild und Plan nicht abschließend geklärt"
+      }
+    ]
   },
   {
     "id": "V37",
