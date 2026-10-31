@@ -166,13 +166,161 @@
     "text": "Waffen- und Munitionsfabrik, 1944 mit rund 1.779 Beschäftigten (Zahl unsicher gelesen). Zwangsarbeitende wohnten auf dem Werksgelände und in Lagern. Für 300 Arbeitskräfte wurde am 25.4.1944 ein Lager beantragt. Auf dem Werksgelände an der Kanalstraße gab es ein Werkslager. Das Lager wurde am 12.12.1942 beantragt, der Lageplan zur Erweiterung ist auf den 31.3.1943 datiert, die Zustimmung kam am selben Tag, abgelehnt wurde nur der Tagesraum der Wache. Weitere Baracken folgten im Oktober 1943, eine Entwesungsanstalt im August 1943. Inhaber und Betriebsführer war nach dem Werkalbum von etwa 1940 Dietrich Stahl, ausgezeichnet als Wehrwirtschaftsführer. Die Albumfotos zeigen das Werk als Musterbetrieb mit Gewächshaus und Innenhöfen; Zwangsarbeit und Lager kommen auf ihnen nicht vor. Die Datierung «um 1940» folgt dem Vorwort des Albums, die Fotos selbst tragen kein Datum. Im Sterberegister nennen 22 Todesfälle von 1943 bis 1945 die Kanalstraße als Wohnanschrift; ausdrücklich auf dem Grundstück der Firma Theodor Bergmann & Co. wird nur ein Fall von Januar 1943 verortet.",
     "quellen": "Reichsbetriebskartei, Bundesarchiv R 3/2001/0270 (Abschrift 2004); BLHA Rep. 2A I Hb 1830, Bild 79; Wikipedia. Bericht eines Hennigsdorfer Heimatforschers vom März 2005 nach BLHA-Akten (Sekundärquelle); Lageplan zur Erweiterung des Barackenlagers, Kanalstraße, 31.3.1943 (Ordner Geschichtsprojekt 2004, nicht veröffentlicht). Werkalbum um 1940, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf (Fotos, Veröffentlichung mit Zustimmung der Familie). Presse: H. Fritsch, „Erstes massives Zwangsarbeiterlager stand am Heidekrug“, Oranienburger Generalanzeiger, 2002 (Datum nicht sicher lesbar). Lageplan Industriegelände Velten, Gemeinde-Bauamt, 17.12.1929 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA26-I_015); Lageplan Erweiterung Barackenlager Kanalstraße, 31.3.1943 (ZWA26-I_083).",
     "foto": null,
-    "personen": null,
+    "personen": [
+      [
+        "6/1943",
+        "Albina Beirorowitsch (Lesung unsicher)",
+        "10.1.1943",
+        "unbekannt",
+        "Herzfehler"
+      ],
+      [
+        "83/1943",
+        "Sofia Wazyk",
+        "15.9.1943",
+        "8 Tage",
+        "Herz- und Kreislaufschwäche"
+      ],
+      [
+        "7/1944",
+        "Justyna Smarsz",
+        "3.1.1944",
+        "ca. 42 J.",
+        "Herzklappenfehler"
+      ],
+      [
+        "30/1944",
+        "Klawa Litwin",
+        "6.2.1944",
+        "11 Tage",
+        "Lungenentzündung"
+      ],
+      [
+        "35/1944",
+        "Leon Gingo",
+        "14.2.1944",
+        "37 J.",
+        "Herzklappenfehler"
+      ],
+      [
+        "50/1944",
+        "Fjodor Zarenkij",
+        "18.3.1944",
+        "33 J.",
+        "Herzklappenfehler, Lungentuberkulose"
+      ],
+      [
+        "63/1944",
+        "Stepan Fucez (Lesung unsicher)",
+        "4.4.1944",
+        "50 J.",
+        "Herzklappenfehler (Lesung unsicher)"
+      ],
+      [
+        "67/1944",
+        "Waldemar Jalowik",
+        "10.4.1944",
+        "10 Mon.",
+        "Lungenentzündung"
+      ],
+      [
+        "103/1944",
+        "Julia Kurczab",
+        "27.6.1944",
+        "44 J.",
+        "Lungentuberkulose"
+      ],
+      [
+        "110/1944",
+        "Antonina Sabawin",
+        "8.7.1944",
+        "4 Mon.",
+        "Herzschwäche"
+      ],
+      [
+        "129/1944",
+        "Anastasija Dmitrenko",
+        "22.8.1944",
+        "27 J.",
+        "Ertrinken beim Baden im Industriekanal"
+      ],
+      [
+        "150/1944",
+        "Peter Wyzelonis (Lesung unsicher)",
+        "9.10.1944",
+        "58 J.",
+        "Herzinsuffizienz"
+      ],
+      [
+        "153/1944",
+        "Maria Krygetowa",
+        "24.10.1944",
+        "36 J.",
+        "Alkoholvergiftung"
+      ],
+      [
+        "154/1944",
+        "Wera Kattornaja",
+        "24.10.1944",
+        "23 J.",
+        "Alkoholvergiftung"
+      ],
+      [
+        "8/1945",
+        "Wladislawa Berwetschonok",
+        "4.1.1945",
+        "12 Mon.",
+        "Lungenentzündung"
+      ],
+      [
+        "13/1945",
+        "Wlademir Gorenow",
+        "15.1.1945",
+        "7 Mon.",
+        "Lungenentzündung"
+      ],
+      [
+        "24/1945",
+        "Kondratis Baranow",
+        "5.2.1945",
+        "unbekannt",
+        "Herzklappenfehler"
+      ],
+      [
+        "29/1945",
+        "Joachim Zagonska",
+        "8.2.1945",
+        "2 J.",
+        "Kreislaufschwäche"
+      ],
+      [
+        "39/1945",
+        "Marija Gamper geb. Schkuratowa",
+        "16.2.1945",
+        "71 J.",
+        "Apoplexia"
+      ],
+      [
+        "42/1945",
+        "Erika Dora Karbinski",
+        "20.2.1945",
+        "12 Mon.",
+        "Herzschwäche"
+      ],
+      [
+        "65/1945",
+        "Alexander Bessorabow",
+        "19.3.1945",
+        "41 J.",
+        "Bombensplitterverletzung der linken Lunge"
+      ]
+    ],
     "region": "velten",
     "route": "",
     "rechte": {
       "text": "eigener Text des Projekts, Tatsachen mit Quelle",
       "koordinate": "keine",
-      "namen": "Name des Betriebsführers (Dietrich Stahl) nach Bildunterschrift im Werkalbum, Veröffentlichung auf Entscheidung von Jens-Martin Krieg",
+      "namen": "Namen, Sterbetag, Alter und Todesart laut Sterbebuch Standesamt Velten (Veröffentlichung auf Entscheidung von Jens-Martin Krieg, 1.11.2026), nur in der Kartenansicht; keine Eltern, keine Geburtsdaten; Name des Betriebsführers (Dietrich Stahl) nach Bildunterschrift im Werkalbum",
       "foto": "Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf; Veröffentlichung mit Zustimmung der Familie; Atelierstempel Max Krajewsky",
       "status": "frei"
     },
@@ -249,7 +397,8 @@
         "beschr": "Lageplan zur Erweiterung des Barackenlagers auf dem Gelände der Firma Theodor Bergmann u. Co. in Velten, Kanalstraße, Maßstab 1:1000, Vermerk der Stadt vom 31.3.1943 mit dem handschriftlichen Zusatz «nicht genehmigt». Der Plan trägt den Stempel des Baubevollmächtigten im Bezirk der Rüstungsinspektion III (Brandenburg) mit einem Vermerk für 1944. Nördlich liegt der Kanal, rechts ein Sportplatz der Firma. Namen Dritter sind unkenntlich gemacht",
         "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF025 (ZWA26) I, Bild 083, Dublette NHF024 (ZWA25) II, Bild 011. Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
       }
-    ]
+    ],
+    "pquelle": "Sterbebuch des Standesamts Velten 1942 bis 1945 (Abschrift im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, gegengelesen; eine Auswahl, nicht vollständig). Anschrift laut Eintrag, kein Beleg für den Betrieb. Die Todesart ist die Eintragung des Standesbeamten, keine ärztliche Feststellung. Schreibweise wie gelesen. Kanalstraße (Bergmann-Gelände); eine Totgeburt ist nicht namentlich aufgeführt."
   },
   {
     "id": "V08",
@@ -418,13 +567,105 @@
     "text": "Lager der Veltener Maschinenbau GmbH (Velma) und der Ikaria Werke GmbH für ausländische Arbeitskräfte. Eine Zeitzeugin nennt über 1000 Personen, was nicht aktenkundig ist. Im Sterberegister steht diese Anschrift bei mindestens 14 Todesfällen von 1942 bis 1945 (Auswahl). Nach der Baubeschreibung vom 5.2.1944 (siehe V05) standen im Lager der Veltener Maschinenbau GmbH neun Wohnbaracken mit je 54 Ostarbeiterinnen.",
     "quellen": "Sterberegister Velten (Abschrift 2004); Briefe 2004 (Erinnerung); Projektrecherche Velten (Stand 8.10.2026). Baubeschreibung 5.2.1944 (Abschriften aus Bauakten, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf); Lageplan Veltener Maschinenbau 29.8.1942; Katasterauszug Flurstücke VeMa 27.5.1942; Luftbild Velten 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) mit handschriftlicher Legende, nicht bestätigt. Pläne als Abbildung: siehe Bildunterschriften. Presse: H. Fritsch, „Topographie der Zwangsarbeiterlager in Velten wird klarer“, Oranienburger Generalanzeiger, 29.5.2002; H. Fritsch, „Abwasserpläne führten auf die richtige Spur“, Oranienburger Generalanzeiger, Mai 2002. Lageplan Barackenlager Veltener-Maschinenbau-Ikaria-Werke, 2.6.1942 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-II_062). Bauantrag 11.12.1942, Baubeschreibung 5.2.1944, Zeichnungen Abborthaus und Einzäunung (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-I_018, ZWA25-II_057, 059 und 055).",
     "foto": null,
-    "personen": null,
+    "personen": [
+      [
+        "71/1942",
+        "Polazeja Andritschuk",
+        "5.8.1942",
+        "28 J.",
+        "Selbsttötung (Eintrag: «Selbstmord»)"
+      ],
+      [
+        "44/1944",
+        "Nadja Kotschergina",
+        "27.2.1944",
+        "18 J.",
+        "Lungentuberkulose"
+      ],
+      [
+        "72/1944",
+        "Jakob Socha",
+        "21.4.1944",
+        "51 J.",
+        "Herzfehler und Lungenentzündung"
+      ],
+      [
+        "102/1944",
+        "Alexandra Rjabrowa",
+        "26.6.1944",
+        "ca. 4 J.",
+        "Lungentuberkulose"
+      ],
+      [
+        "115/1944",
+        "Matrena Kaschena geb. Troschichina",
+        "15.7.1944",
+        "ca. 77 J.",
+        "Herzklappenfehler"
+      ],
+      [
+        "116/1944",
+        "Maria Omeltschuk (I)",
+        "15.7.1944",
+        "23 J.",
+        "Lungentuberkulose"
+      ],
+      [
+        "117/1944",
+        "Georges Chaffoteaux",
+        "19.7.1944",
+        "45 J.",
+        "Herzschlag"
+      ],
+      [
+        "121/1944",
+        "Katerina Isakowa",
+        "4.8.1944",
+        "ca. 64 J.",
+        "Herzklappenfehler"
+      ],
+      [
+        "137/1944",
+        "Maria Omeltschuk (II)",
+        "2.9.1944",
+        "21 J.",
+        "Lungentuberkulose"
+      ],
+      [
+        "158/1944",
+        "Hanna (Lesung unsicher) Waschchon geb. Jaschko",
+        "5.11.1944",
+        "23 J.",
+        "akute Herzschwäche"
+      ],
+      [
+        "6/1945",
+        "Odarka Srebnjuk",
+        "2.1.1945",
+        "27 J.",
+        "Bauchfellentzündung"
+      ],
+      [
+        "18/1945",
+        "Wassilij Zeruk",
+        "26.1.1945",
+        "16 Tage",
+        "Ernährungsstörung, Durchfall"
+      ],
+      [
+        "93/1945",
+        "Andre Kratjuk",
+        "19.4.1945",
+        "4 Mon.",
+        "Lungenentzündung"
+      ]
+    ],
     "region": "velten",
     "route": "",
     "rechte": {
       "text": "eigener Text des Projekts, Tatsachen mit Quelle",
       "koordinate": "aus Lageplänen abgeleitet (Anhaltspunkt)",
-      "namen": "keine Namen",
+      "namen": "Namen, Sterbetag, Alter und Todesart laut Sterbebuch Standesamt Velten (Veröffentlichung auf Entscheidung von Jens-Martin Krieg, 1.11.2026), nur in der Kartenansicht; keine Eltern, keine Geburtsdaten",
       "foto": "Fotos von Jens-Martin Krieg (Kanalufer, Brücke); Pläne und Aktenblätter Dritter, Rechte nicht abschließend geklärt",
       "status": "bedingt frei"
     },
@@ -543,7 +784,8 @@
         "beschr": "Blick den Stichkanal entlang, am linken Ufer Gewerbebauten.",
         "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
       }
-    ]
+    ],
+    "pquelle": "Sterbebuch des Standesamts Velten 1942 bis 1945 (Abschrift im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, gegengelesen; eine Auswahl, nicht vollständig). Anschrift laut Eintrag, kein Beleg für den Betrieb. Die Todesart ist die Eintragung des Standesbeamten, keine ärztliche Feststellung. Schreibweise wie gelesen. Berliner Straße 13/14; eine Totgeburt ist nicht namentlich aufgeführt."
   },
   {
     "id": "V16",
@@ -556,16 +798,53 @@
     "text": "Im Sterberegister stehen Unterkünfte an der Breiten Straße bei mindestens 5 Todesfällen und mehreren Geburten 1943 bis 1945. Wer dort wohnte, waren ausländische Arbeiterinnen und Arbeiter mit ihren Kindern.",
     "quellen": "Sterberegister und Geburtenbuch Velten (Abschrift 2004, Auswahl).",
     "foto": null,
-    "personen": null,
+    "personen": [
+      [
+        "36/1944",
+        "Natja Derjagin",
+        "15.2.1944",
+        "2 Mon.",
+        "Lungenentzündung"
+      ],
+      [
+        "113/1944",
+        "Alexander Kusutin",
+        "13.7.1944",
+        "9 Mon.",
+        "Kreislaufschwäche"
+      ],
+      [
+        "149/1944",
+        "Sveta Panko",
+        "6.10.1944",
+        "2 Mon.",
+        "Lungenentzündung, Herz- und Kreislaufschwäche"
+      ],
+      [
+        "9/1945",
+        "Iwan Slatonow",
+        "8.1.1945",
+        "53 J.",
+        "Herzschlag"
+      ],
+      [
+        "43/1945",
+        "Viktor Kubanski",
+        "21.2.1945",
+        "6 Mon.",
+        "Kreislaufschwäche"
+      ]
+    ],
     "region": "velten",
     "route": "",
     "rechte": {
       "text": "eigener Text des Projekts, Tatsachen mit Quelle",
       "koordinate": "OpenStreetMap, ODbL",
-      "namen": "keine Namen",
+      "namen": "Namen, Sterbetag, Alter und Todesart laut Sterbebuch Standesamt Velten (Veröffentlichung auf Entscheidung von Jens-Martin Krieg, 1.11.2026), nur in der Kartenansicht; keine Eltern, keine Geburtsdaten",
       "foto": "kein Foto",
       "status": "frei"
-    }
+    },
+    "pquelle": "Sterbebuch des Standesamts Velten 1942 bis 1945 (Abschrift im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, gegengelesen; eine Auswahl, nicht vollständig). Anschrift laut Eintrag, kein Beleg für den Betrieb. Die Todesart ist die Eintragung des Standesbeamten, keine ärztliche Feststellung. Schreibweise wie gelesen. Breite Straße."
   },
   {
     "id": "V17",
@@ -794,16 +1073,102 @@
     "text": "Das Sterberegister der Jahre 1943 bis 1945 nennt «Friedrichstraße 59-63» als Wohnort von 12 Verstorbenen, darunter 7 Kinder. Auch mehrere Geburten dieser Jahre stehen unter dieser Anschrift. Es waren ausländische Arbeiterinnen und Arbeiter mit ihren Kindern. Für welchen Betrieb sie arbeiteten, ist nicht belegt. Die Friedrichstraße heißt heute Rosa-Luxemburg-Straße. Die Veltag, die 1944 Zwangsarbeiter aus der Sowjetunion einsetzte, hatte ihr Hauptwerk an derselben Straße (V36); ein Zusammenhang mit dieser Unterkunft ist nicht belegt.",
     "quellen": "Sterberegister und Geburtenbuch Velten (Abschrift 2004 und Sterbebuch-Auszug, Auswahl); Gräberliste der Stadt Velten vom 27.12.1949 (Arolsen Archives).",
     "foto": null,
-    "personen": null,
+    "personen": [
+      [
+        "113/1943",
+        "Viktor Iwanow",
+        "22.12.1943",
+        "2 J.",
+        "Lungenentzündung"
+      ],
+      [
+        "114/1943",
+        "Valentina Pawlowitsch",
+        "23.12.1943",
+        "30 Tage",
+        "Lungenentzündung"
+      ],
+      [
+        "54/1944",
+        "Jan Klewic",
+        "24.3.1944",
+        "ca. 60 J.",
+        "Magengeschwüre, Herzklappenfehler"
+      ],
+      [
+        "69/1944",
+        "Nikolai Chodorow",
+        "13.4.1944",
+        "42 J.",
+        "Lungentuberkulose"
+      ],
+      [
+        "101/1944",
+        "Nina Antoschina",
+        "26.6.1944",
+        "9 J.",
+        "Lungentuberkulose"
+      ],
+      [
+        "135/1944",
+        "Viktor Kadrubowski",
+        "1.9.1944",
+        "2 Mon.",
+        "Darmkatarrh"
+      ],
+      [
+        "163/1944",
+        "Elisaweta Iwanowa",
+        "17.11.1944",
+        "ca. 36 J.",
+        "Magenkrebs (Lesung unsicher)"
+      ],
+      [
+        "180/1944",
+        "Luba Wyrwina",
+        "25.12.1944",
+        "4 Mon.",
+        "Lungenentzündung"
+      ],
+      [
+        "4/1945",
+        "Leonid Kadrubowski",
+        "1.1.1945",
+        "6 Mon.",
+        "nicht angegeben"
+      ],
+      [
+        "7/1945",
+        "Swetlana Borysenko",
+        "3.1.1945",
+        "45 Tage",
+        "nicht angegeben"
+      ],
+      [
+        "11/1945",
+        "Pjotr Schaturjki",
+        "10.1.1945",
+        "21 J.",
+        "Kreislaufschwäche, Erschöpfung"
+      ],
+      [
+        "12/1945",
+        "Samuel Iwanow",
+        "12.1.1945",
+        "ca. 54 J.",
+        "Herzklappenfehler"
+      ]
+    ],
     "region": "velten",
     "route": "",
     "rechte": {
       "text": "eigener Text des Projekts, Tatsachen mit Quelle",
       "koordinate": "OpenStreetMap, ODbL (Näherung)",
-      "namen": "keine Namen",
+      "namen": "Namen, Sterbetag, Alter und Todesart laut Sterbebuch Standesamt Velten (Veröffentlichung auf Entscheidung von Jens-Martin Krieg, 1.11.2026), nur in der Kartenansicht; keine Eltern, keine Geburtsdaten",
       "foto": "kein Foto",
       "status": "frei"
-    }
+    },
+    "pquelle": "Sterbebuch des Standesamts Velten 1942 bis 1945 (Abschrift im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, gegengelesen; eine Auswahl, nicht vollständig). Anschrift laut Eintrag, kein Beleg für den Betrieb. Die Todesart ist die Eintragung des Standesbeamten, keine ärztliche Feststellung. Schreibweise wie gelesen. Friedrichstraße 59 bis 63."
   },
   {
     "id": "V36",
