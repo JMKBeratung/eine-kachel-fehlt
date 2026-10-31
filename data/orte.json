@@ -1018,8 +1018,8 @@
     "lon": 13.1977,
     "lage": "ungefähr: Weg «Zur Erinnerung» (2012 benannt), rund 80 m vom Lager. Ältere Projektnotizen nannten den Anglerweg, das ist vor Ort zu klären. Lage nach Ortskenntnis von Jens-Martin Krieg (19.10.2026): direkt an der unteren Bushaltestelle Anglerweg. Grobe Schätzung, nicht eingemessen.",
     "gewissheit": "belegt (Wikipedia), vor Ort zu prüfen",
-    "text": "Seit April 2015 erinnert eine Stele aus Edelstahl an das Außenlager.",
-    "quellen": "Wikipedia, Artikel «KZ-Außenlager Velten»; OpenStreetMap (Koordinate des Wegs).",
+    "text": "Seit April 2015 erinnert eine Stele aus Edelstahl an das Außenlager. Neben der Stele steht eine zweisprachige Informationstafel der Stiftung Brandenburgische Gedenkstätten (Aufdruck 2014, mit Unterstützung der Stadt Velten). Sie zeigt ein alliiertes Luftbild vom 22. März 1945 mit dem Lager und eine Lageskizze der Gedenkstätten. Nach den Angaben der Tafel wurde das Lager im März 1943 als Außenlager des KZ Ravensbrück eingerichtet und unterstand ab September 1944 dem KZ Sachsenhausen. Es lag zwischen der Berliner Straße und dem S-Bahnhof Hohenschöpping und bestand aus sechs Häftlingsbaracken und drei Wirtschaftsbaracken, umgeben von einem elektrischen Zaun und vier Wachtürmen. Die höchste Belegung mit 722 Frauen wird für Ende 1944 genannt; sie kamen aus Polen, der Sowjetunion, Frankreich, dem Deutschen Reich, Rumänien, Ungarn und Lettland. Die Frauen mussten bei der Veltener Maschinenbau GmbH Ikaria arbeiten (unter anderem Bordkanonen für die Heinkel-Flugzeugwerke in Oranienburg) und beim Havelschmelzwerk, zwölf Stunden täglich in zwei Schichten, bewacht von SS-Aufseherinnen. Am 19. April 1945 waren 709 Frauen im Lager; in der folgenden Nacht trieb die SS sie auf einen Todesmarsch nach Nordwesten. Anfang Mai 1945 wurden die Überlebenden bei Parchim von sowjetischen Soldaten befreit. Die Angaben sind die der Tafel und nicht an Primärquellen geprüft.",
+    "quellen": "Wikipedia, Artikel «KZ-Außenlager Velten»; OpenStreetMap (Koordinate des Wegs). Informationstafel am Weg «Zur Erinnerung», Stiftung Brandenburgische Gedenkstätten 2014 (Aufdruck), mit Unterstützung der Stadt Velten; Luftbild 22.3.1945: Landesvermessung und Geobasisinformation Brandenburg; Fotos der Tafel von Jens-Martin Krieg, 16.12.2023.",
     "foto": null,
     "personen": null,
     "region": "velten",
@@ -1028,9 +1028,29 @@
       "text": "eigener Text des Projekts, Tatsachen mit Quelle",
       "koordinate": "OpenStreetMap, ODbL",
       "namen": "keine Namen",
-      "foto": "kein Foto",
-      "status": "frei"
-    }
+      "foto": "Fotos von Jens-Martin Krieg; Inhalt der Tafel Dritter (Stiftung, Landesvermessung), Rechte nicht abschließend geklärt",
+      "status": "bedingt frei"
+    },
+    "bilder": [
+      {
+        "datei": "stele-tafel-luftbild-1945.jpg",
+        "alt": "Informationstafel mit einem Schwarzweiß-Luftbild, darauf ein orange umrandeter Gebäudeblock, darunter der Beginn des Textes",
+        "beschr": "Informationstafel am Weg «Zur Erinnerung»: alliiertes Luftbild vom 22. März 1945 mit dem KZ-Außenlager (orange markiert).",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023. Inhalt der Tafel: Stiftung Brandenburgische Gedenkstätten 2014, Luftbild Landesvermessung und Geobasisinformation Brandenburg. Rechte an den Tafelinhalten nicht abschließend geklärt"
+      },
+      {
+        "datei": "stele-tafel-texte-lageskizze.jpg",
+        "alt": "Unterer Teil der Informationstafel mit drei Textspalten auf Deutsch und Englisch und einer Lageskizze",
+        "beschr": "Informationstafel, Ausschnitt: Texte auf Deutsch und Englisch und eine Lageskizze zu den Gedenkstätten.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023. Inhalt der Tafel: Stiftung Brandenburgische Gedenkstätten 2014, Luftbild Landesvermessung und Geobasisinformation Brandenburg. Rechte an den Tafelinhalten nicht abschließend geklärt"
+      },
+      {
+        "datei": "stele-tafel-text-unten.jpg",
+        "alt": "Unterer Rand der Informationstafel mit Textspalten, links deutsch, in der Mitte englisch",
+        "beschr": "Informationstafel, unterer Teil: Schluss der Texte mit der Aussage einer Überlebenden von 1975.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023. Inhalt der Tafel: Stiftung Brandenburgische Gedenkstätten 2014, Luftbild Landesvermessung und Geobasisinformation Brandenburg. Rechte an den Tafelinhalten nicht abschließend geklärt"
+      }
+    ]
   },
   {
     "id": "V02",
