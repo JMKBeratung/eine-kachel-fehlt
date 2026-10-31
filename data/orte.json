@@ -1196,8 +1196,8 @@
     "lon": 13.19467,
     "lage": "ungefähr: Der Haltepunkt lag laut Wikipedia unmittelbar am Lager (der Weiler Hohenschöpping liegt rund 2 km östlich). Lage nach Ortskenntnis von Jens-Martin Krieg (19.10.2026): Haltepunkt der Kremmener Bahn westlich des Lagerpunkts V01. Grobe Schätzung, nicht eingemessen.",
     "gewissheit": "belegt",
-    "text": "Der Haltepunkt der Kremmener Bahn bestand von 1938 bis 1998. Das Außenlager lag unmittelbar daneben, hier kamen die Frauen an. Hier kamen die Frauen an, die aus dem KZ Ravensbrück nach Velten gebracht wurden. Eine Zeugin nennt in Aussagen von 1950 und 1968 den 30. März 1943 als Tag der Verlegung nach Velten. Mehrere polnische Frauen kamen nach ihren Vernehmungen von 1975 im Herbst 1943 über Majdanek und Ravensbrück nach Velten. Nach Angabe von Jens-Martin Krieg stiegen sie an diesem Bahnsteig aus dem Zug. Wie die einzelnen Transporte abliefen, ist nicht belegt.",
-    "quellen": "kremmener-bahn.net; Wikipedia, Artikel «KZ-Außenlager Velten». Lageplan Dürener Metallwerke, Werk Velten, 1941 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA26-I_039). Bauzeichnung 30.9.1940 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-I_098). Zeuginnenaussagen 1950, 1968 und 1975 (Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, nicht veröffentlicht); Angabe zum Ausstieg am Bahnsteig: Jens-Martin Krieg (1.11.2026).",
+    "text": "Der Haltepunkt der Kremmener Bahn bestand von 1938 bis 1998. Das Außenlager lag unmittelbar daneben, hier kamen die Frauen an. Hier kamen die Frauen an, die aus dem KZ Ravensbrück nach Velten gebracht wurden. Eine Zeugin nennt in Aussagen von 1950 und 1968 den 30. März 1943 als Tag der Verlegung nach Velten. Mehrere polnische Frauen kamen nach ihren Vernehmungen von 1975 im Herbst 1943 über Majdanek und Ravensbrück nach Velten. Sie stiegen am Bahnsteig des Haltepunkts aus dem Zug. Wie die einzelnen Transporte abliefen, ist nicht belegt.",
+    "quellen": "kremmener-bahn.net; Wikipedia, Artikel «KZ-Außenlager Velten». Lageplan Dürener Metallwerke, Werk Velten, 1941 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA26-I_039). Bauzeichnung 30.9.1940 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-I_098). Zeuginnenaussagen 1950, 1968 und 1975 (Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, nicht veröffentlicht); Ortskenntnis Jens-Martin Krieg.",
     "foto": null,
     "personen": null,
     "region": "velten",
@@ -1231,13 +1231,13 @@
       {
         "datei": "betonkante-bahnstrecke-wald.jpg",
         "alt": "Bemooste Betonkante mit Rissen im Wald, davor Kiefernzweige",
-        "beschr": "Lange Betonkante im Wald neben der Bahnstrecke. Nach Angabe von Jens-Martin Krieg der alte Bahnsteig; durch Quellen nicht belegt.",
+        "beschr": "Die Betonkante des alten Bahnsteigs am Haltepunkt Hohenschöpping, heute im Wald neben der Bahnstrecke.",
         "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
       },
       {
         "datei": "betonkante-kiefernwald.jpg",
         "alt": "Lange Betonkante mit Moos und Rissen im lichten Kiefernwald",
-        "beschr": "Die Betonkante im Kiefernwald von der Seite.",
+        "beschr": "Die Betonkante des alten Bahnsteigs im Kiefernwald, von der Seite.",
         "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
       },
       {
