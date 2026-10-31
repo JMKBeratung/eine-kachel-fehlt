@@ -988,7 +988,27 @@
       "namen": "Arolsen-Nutzungsbedingungen, Vorab-Mitteilung nötig",
       "foto": "kein Foto",
       "status": "frei"
-    }
+    },
+    "bilder": [
+      {
+        "datei": "friedhof-graeberfeld-kapelle.jpg",
+        "alt": "Kiesfläche mit flachen Gedenkplatten und zwei Gedenksteinen, links eine gelbe Kapelle, dahinter hohe Bäume",
+        "beschr": "Gräberfeld auf dem Friedhof Velten, links die Kapelle.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023"
+      },
+      {
+        "datei": "friedhof-gedenkstein-kriegsopfer.jpg",
+        "alt": "Zwei Gedenksteine auf Kies, links ein Stein mit schwarzer Tafel, rechts ein Stein mit der Aufschrift «In Gedenken der Kriegsopfer»",
+        "beschr": "Gedenkstein für ausländische Bürger und Stein «In Gedenken der Kriegsopfer» auf dem Gräberfeld.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023"
+      },
+      {
+        "datei": "friedhof-gedenktafel-inschrift.jpg",
+        "alt": "Schwarze Tafel mit weißer Schrift auf einem Granitstein, daneben ein Stein mit roter Aufschrift",
+        "beschr": "Gedenktafel am Stein mit der Inschrift «Zum Gedenken an ausländische Bürger, die in Velten während der faschistischen Zwangsherrschaft verstarben».",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023"
+      }
+    ]
   },
   {
     "id": "V19",
