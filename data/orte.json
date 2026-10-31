@@ -312,7 +312,7 @@
   "lage": "Anhaltspunkt am Veltener Stichkanal, aus Plänen abgeleitet, nicht eingemessen (Abweichung bis etwa 150 m). Der Lageplan der Veltener Maschinenbau GmbH (gezeichnet 29.8.1942, Bauschein Nr. 216; Ordner Geschichtsprojekt 2004) zeigt die Baracken Nr. 26 bis 38 mit eigener Umzäunung und Kläranlage zwischen den Hallen I bis III und dem Stichkanal. Das Luftbild vom 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) trägt dort in der Legende von Jens-Martin Krieg «Baracken Ikaria». Früher stand der Punkt an der Berliner Straße 13 (OpenStreetMap); diese Anschrift (Berliner Straße 13/14) nennen Sterberegister und Reichsbetriebskarte, das Lager lag aber am Kanal.",
   "gewissheit": "wahrscheinlich, Lage aus Plänen abgeleitet",
   "text": "Zivilarbeiterlager der beiden Werke. Eine Zeitzeugin nennt über 1000 Personen, was nicht aktenkundig ist. Im Sterberegister steht diese Anschrift bei mindestens 12 Todesfällen von 1942 bis 1945 (Auswahl bis Februar 1945). Nach der Baubeschreibung vom 5.2.1944 (siehe V05) standen im Lager der Veltener Maschinenbau neun Wohnbaracken mit je 54 Ostarbeiterinnen.",
-  "quellen": "Sterberegister Velten (Abschrift 2004); Briefe 2004 (Erinnerung); Projektrecherche Velten (Stand 8.10.2026). Baubeschreibung 5.2.1944 (Abschriften aus Bauakten, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf); Lageplan Veltener Maschinenbau 29.8.1942; Katasterauszug Flurstücke VeMa 27.5.1942; Luftbild Velten 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) mit handschriftlicher Legende, nicht bestätigt.",
+  "quellen": "Sterberegister Velten (Abschrift 2004); Briefe 2004 (Erinnerung); Projektrecherche Velten (Stand 8.10.2026). Baubeschreibung 5.2.1944 (Abschriften aus Bauakten, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf); Lageplan Veltener Maschinenbau 29.8.1942; Katasterauszug Flurstücke VeMa 27.5.1942; Luftbild Velten 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) mit handschriftlicher Legende, nicht bestätigt. Pläne als Abbildung: siehe Bildunterschriften.",
   "foto": null,
   "personen": null,
   "region": "velten",
@@ -323,7 +323,21 @@
    "namen": "keine Namen",
    "foto": "kein Foto",
    "status": "frei"
-  }
+  },
+  "bilder": [
+   {
+    "datei": "lageplan-vema-1942.jpg",
+    "alt": "Bauplan mit Hallen I bis III, dem Veltener Stichkanal und zwei Reihen nummerierter Baracken 26 bis 38",
+    "beschr": "Lageplan der Veltener Maschinenbau GmbH, gezeichnet 29.8.1942, Bauschein Nr. 216, baupolizeilich geprüft in Nauen 1944. Zwischen dem Veltener Stichkanal (oben) und den Hallen I bis III liegen die Baracken Nr. 26 bis 38 mit eigener Umzäunung und einer Kläranlage. Rechts die Straße nach Hohenschöpping. Eine Nordrichtung ist nicht eingezeichnet.",
+    "quelle": "Quelle: Lageplan Veltener Maschinenbau GmbH, 29.8.1942, Kopie im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004. Rechte nicht abschließend geklärt."
+   },
+   {
+    "datei": "kataster-vema-1942.jpg",
+    "alt": "Katasterauszug mit Handzeichnung der Flurstücke an Stichkanal, Muhrgraben und Berliner Straße",
+    "beschr": "Katasterauszug (Handzeichnung nach den Katasterkarten) für die Grundstücke der Veltener Maschinenbau GmbH, Gemarkung Velten, Kartenblatt 7, ausgefertigt in Berlin-Spandau am 27.5.1942, Maßstab etwa 1:2500. Zu sehen sind der Stich-Kanal (oben), der Muhrgraben und die Berliner Straße. Die Hoheitszeichen der damaligen Behörde stehen auf dem Original und dienen hier der Dokumentation.",
+    "quelle": "Quelle: Katasteramt Nauen, Nebenstelle Spandau, 27.5.1942, Kopie im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004. Rechte nicht abschließend geklärt."
+   }
+  ]
  },
  {
   "id": "V16",
@@ -994,7 +1008,15 @@
    "namen": "keine Namen",
    "foto": "kein Foto",
    "status": "frei"
-  }
+  },
+  "bilder": [
+   {
+    "datei": "luftbild-velten-1945.jpg",
+    "alt": "Schwarzweißes Luftbild mit Stichkanal, Hafenbecken und Industriegelände, sieben farbig markierte Flächen mit den Nummern 1 bis 7",
+    "beschr": "Luftbild von Velten vom 22.3.1945 (Bild 4122, Film 071, Maßstab etwa 1:8000), das Blatt ist gegenüber der Nordrichtung gedreht. Markierungen und Nummern stammen aus einer handschriftlichen Legende von Jens-Martin Krieg und sind noch nicht bestätigt: 1 KZ-Lager, 2 Lager mit Ostarbeiterinnen, 3 Munitionsfabrik mit Schießstand Bergmann und Lager Heidekrug, 4 und 5 Holzfabrik, die Baracken herstellte, 6 Gemeinschaftslager (Pantinenfabrik von Lemm?), 7 Baracken Ikaria.",
+    "quelle": "Quelle: erma Brandenburg, Luftbild vom 22.3.1945, Kopie im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004. Rechte nicht abschließend geklärt."
+   }
+  ]
  },
  {
   "id": "V32",
