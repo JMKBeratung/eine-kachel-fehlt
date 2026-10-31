@@ -898,7 +898,15 @@
    "namen": "keine Namen",
    "foto": "kein Foto",
    "status": "frei"
-  }
+  },
+  "bilder": [
+   {
+    "datei": "meissnershof-stele-2023.jpg",
+    "alt": "Hohe graue Informationstafel am Rand eines Waldstücks, dahinter ein Zaun und Laubbäume im Winter",
+    "beschr": "Informationstafel zum Konzentrationslager Meissnershof der Nauener SA am Standort, aufgestellt von der Stiftung Brandenburgische Gedenkstätten 2019. Das Foto zeigt die Tafel im Gelände, aufgenommen am 16.12.2023. Der genaue Verlauf des damaligen Lagergeländes ist damit nicht belegt.",
+    "quelle": "Quelle: eigene Aufnahme der Initiative Eine Kachel fehlt, 16.12.2023. Die Tafel selbst ist ein Werk der Stiftung Brandenburgische Gedenkstätten und nur als Ortsaufnahme zu sehen."
+   }
+  ]
  },
  {
   "id": "V21",
@@ -964,7 +972,15 @@
    "namen": "Namen aus der Sterbeliste der Stadt Velten; Arolsen-Nutzungsbedingungen, Vorab-Mitteilung nötig",
    "foto": "kein Foto",
    "status": "frei"
-  }
+  },
+  "bilder": [
+   {
+    "datei": "tonberg-tonbahn-fundamente.jpg",
+    "alt": "Wasserfläche mit Resten gemauerter Fundamente, dahinter kahle Bäume und Schilf",
+    "beschr": "Reste der Fundamente der Tonbahn an der Abbaustelle am Tonberg, nördlich von Velten. Die Tonbahn ist ein Zeugnis des früheren Tonabbaus am Ort. Dass die Hinrichtung genau hier stattfand, folgt daraus nicht.",
+    "quelle": "Quelle: Foto J. M. Krieg, 2023, für die Initiative Eine Kachel fehlt (Veröffentlichung mit Zustimmung der Familie)."
+   }
+  ]
  },
  {
   "id": "V30",
