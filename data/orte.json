@@ -1205,5 +1205,27 @@
         "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 063 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
       }
     ]
+  },
+  {
+    "id": "V34",
+    "titel": "Gaststätte und Lager «Hotel Fahrtmann»",
+    "gruppe": "Unterkünfte und Lager",
+    "lat": 52.69335,
+    "lon": 13.17149,
+    "lage": "Wilhelmstraße 19 (früher Ungermannstraße 19), Punkt nach der OpenStreetMap-Adresssuche, nicht eingemessen. Das Haus existiert nicht mehr.",
+    "gewissheit": "belegt (Akte, Name und Adresse)",
+    "text": "Das Lager «Hotel Fahrtmann» in Velten, in dem 1943 tschechische Zwangsarbeiter fotografiert wurden, ist als Gaststätte an der heutigen Wilhelmstraße 19 belegt. Zwei Fotos aus Helmut Fritsch, Zwangsarbeit in Hennigsdorf 1940 bis 1945 (2001, S. 56), zeigen elf Männer in einem Hof (Tafel «Ulejváci 1943 Velten 11/1», 11.1.1943) und Menschen an einem Fenster unter dem Schriftzug «Hôtel». Eine Akte des Amts zum Schutze des Volkseigentums im Brandenburgischen Landeshauptarchiv (1946 bis 1950, Betriebsvermögen im Kreis Osthavelland) führt in Velten eine Gastwirtschaft Fahrtmann in der Ungermannstraße 19 auf. Die Ungermannstraße ist die heutige Wilhelmstraße.\n\nDas Haus steht nach Angaben der Stolperstein-Liste nicht mehr. Wer in dem Lager untergebracht war, wie lange und für welchen Betrieb, ist nicht belegt. Das Gruppenfoto trägt das Datum 11.1.1943, ein weiteres Aufnahmedatum ist nicht bekannt. Die Fotos stehen auf der Seite Erinnerungen.",
+    "quellen": "Brandenburgisches Landeshauptarchiv, Rep. 203 AVE BET 926 (951926), Akte «Siemens & Halske AG, Wohnlager und Fabrikationsstätte, Falkensee», Laufzeit 1946 bis 1950, Beteiligtenliste mit Gastwirtschaft Fahrtmann, Velten (Mark), Ungermannstr. 19 (Deutsche Digitale Bibliothek); Liste der Stolpersteine in Velten (Wikipedia), Eintrag Richard Ungermann: Ungermannstraße ist die heutige Wilhelmstraße, Haus Wilhelmstr. 19 existiert nicht mehr; Helmut Fritsch, Zwangsarbeit in Hennigsdorf 1940 bis 1945, Hennigsdorf 2001, S. 56 (Fotos, Berliner Geschichtswerkstatt, zwa foto 28-26-27 und 28-30); OpenStreetMap-Adresssuche (© OpenStreetMap contributors, ODbL).",
+    "foto": null,
+    "personen": null,
+    "region": "velten",
+    "route": "",
+    "rechte": {
+      "text": "eigener Text des Projekts, Tatsachen mit Quelle",
+      "koordinate": "OpenStreetMap-Adresssuche, Näherung",
+      "namen": "keine Namen (nur Name der Gaststätte)",
+      "foto": "kein Foto im Eintrag, Fotos stehen auf der Seite Erinnerungen",
+      "status": "frei"
+    }
   }
 ]
