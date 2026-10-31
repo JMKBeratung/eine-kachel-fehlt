@@ -425,8 +425,8 @@
       "text": "eigener Text des Projekts, Tatsachen mit Quelle",
       "koordinate": "aus Lageplänen abgeleitet (Anhaltspunkt)",
       "namen": "keine Namen",
-      "foto": "kein Foto",
-      "status": "frei"
+      "foto": "Fotos von Jens-Martin Krieg (Kanalufer, Brücke); Pläne und Aktenblätter Dritter, Rechte nicht abschließend geklärt",
+      "status": "bedingt frei"
     },
     "bilder": [
       {
@@ -470,6 +470,96 @@
         "alt": "Technische Zeichnung eines Holzzauns mit Pfosten und Latten, Maße in Metern",
         "beschr": "Zeichnung «Einzäunung des Barackenlagers III (Holzzaun) der Veltener Maschinenbau GmbH», beim Bürgermeister eingegangen am 26.3.1943. Dargestellt sind Zaunfeld, Pfosten und Latten mit Maßen; am Kopf des Zauns sind zwei Reihen mit Kreuzen eingezeichnet, vermutlich Stacheldraht (Deutung nicht gesichert). Die Vorlage ist gedreht, eine Unterschrift unkenntlich gemacht",
         "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 055 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "kanalbruecke-ansicht.jpg",
+        "alt": "Betonbrücke mit Bogen über einem Kanal, links ein Pegelpfahl mit gelber Spitze",
+        "beschr": "Brücke über den Veltener Stichkanal, Ansicht vom Ufer.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "kanalbruecke-pegel.jpg",
+        "alt": "Brückenbogen von der Böschung aus gesehen, davor ein grüner Pfahl mit gelber Spitze",
+        "beschr": "Brücke über den Stichkanal von der Uferböschung, im Vordergrund ein Pegelpfahl.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanalbruecke-bogen-unten.jpg",
+        "alt": "Brückenbogen von unten mit Geländer und Wasser dahinter",
+        "beschr": "Brückenbogen von unten.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanalbruecke-durchblick.jpg",
+        "alt": "Blick durch den Brückenbogen auf ruhiges Wasser mit Spiegelung",
+        "beschr": "Blick durch den Brückenbogen auf den Stichkanal.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "veltag-kanalseite-spiegelung.jpg",
+        "alt": "Lange Hallen am Ufer eines Kanals mit Spiegelung im Wasser und einem Kran",
+        "beschr": "Hallen am gegenüberliegenden Ufer des Stichkanals. Nach Angabe von Jens-Martin Krieg die Kanalseite der Veltag; durch Quellen nicht belegt.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-gegenufer.jpg",
+        "alt": "Kanal zwischen kahlen Bäumen mit einer Brücke im Hintergrund",
+        "beschr": "Stichkanal mit Blick zum Gegenufer.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "kanal-ufer-kiefern.jpg",
+        "alt": "Kanalufer mit Kiefern und Blick auf das andere Ufer",
+        "beschr": "Ufer des Stichkanals mit Kiefern.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "kanal-ufer-spiegelung.jpg",
+        "alt": "Böschung am Kanal mit Spiegelung der Uferbäume im Wasser",
+        "beschr": "Kanalufer mit Spiegelung im Wasser.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-uferweg.jpg",
+        "alt": "Unbefestigter Weg zwischen kahlen Bäumen",
+        "beschr": "Weg am Ufer des Stichkanals.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-betonmauer-hof.jpg",
+        "alt": "Betonmauer, dahinter Halle und Betriebshof mit Containern",
+        "beschr": "Betonmauer am Ufer, dahinter ein Betriebshof mit Halle.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-ufermauer-container.jpg",
+        "alt": "Weiße Ziegelmauer mit Graffiti am Wasser, davor ein Container",
+        "beschr": "Ufermauer mit Container am Kanal.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-backsteinmauer.jpg",
+        "alt": "Helle Backsteinmauer mit Graffiti über einem Betriebshof",
+        "beschr": "Backsteinmauer am Kanalufer über dem Betriebshof.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-hof-lange-halle.jpg",
+        "alt": "Betriebshof mit einer langen Halle mit Fensterbändern",
+        "beschr": "Betriebshof mit langer Halle, heutiger Zustand.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-halle-kran.jpg",
+        "alt": "Hallen mit Kran, im Vordergrund Betonplatten",
+        "beschr": "Hallen auf dem heutigen Gewerbegelände. Ein Firmenschild ist unkenntlich gemacht.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-uferblick-gebaeude.jpg",
+        "alt": "Kanal mit Spiegelung, am linken Ufer Gebäude",
+        "beschr": "Blick den Stichkanal entlang, am linken Ufer Gewerbebauten.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
       }
     ]
   },
@@ -1240,7 +1330,7 @@
       "text": "eigener Text des Projekts, Tatsachen mit Quelle",
       "koordinate": "Ortskenntnis, Luftbild 1945 (nicht veröffentlicht)",
       "namen": "keine Namen",
-      "foto": "kein Foto",
+      "foto": "Fotos von Jens-Martin Krieg (Kanalufer, Brücke)",
       "status": "frei"
     },
     "bilder": [
@@ -1261,6 +1351,96 @@
         "alt": "Handschriftliche Bleistiftskizze auf Papier mit russischen Beschriftungen: Lager mit Baracken und Fabrik, gegenüber ein Lager der Kriegsgefangenen, Straße, Kanal, Brücke, Wald",
         "beschr": "Originalskizze einer ehemaligen Zwangsarbeiterin, 2004 aus der Erinnerung gezeichnet, Rückseite eines Briefes vom 20.9.2004. Die Beschriftungen sind russisch: Wald (лес), Kanal (канал), Brücke (мост), Straße (дорога), Lager mit Baracken und Fabrik (лагерь, бараки, завод), Lager der Kriegsgefangenen (лагерь военнопленных), «Geheimfabrik» (секретный завод) im Abstand von 0,5 bis 1 km. Das Foto des Blattes wurde zugeschnitten, in Graustufen umgewandelt und im Kontrast verbessert. Die deutsche Nachzeichnung steht oben im Eintrag",
         "quelle": "Quelle: Skizze einer Zeitzeugin, Ordner Geschichtsprojekt der Ev. Kirchengemeinde Velten 2004, Aufnahme des Blattes durch die Initiative 2023. Veröffentlicht auf Entscheidung von Jens-Martin Krieg. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "kanalbruecke-ansicht.jpg",
+        "alt": "Betonbrücke mit Bogen über einem Kanal, links ein Pegelpfahl mit gelber Spitze",
+        "beschr": "Brücke über den Veltener Stichkanal, Ansicht vom Ufer.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "kanalbruecke-pegel.jpg",
+        "alt": "Brückenbogen von der Böschung aus gesehen, davor ein grüner Pfahl mit gelber Spitze",
+        "beschr": "Brücke über den Stichkanal von der Uferböschung, im Vordergrund ein Pegelpfahl.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanalbruecke-bogen-unten.jpg",
+        "alt": "Brückenbogen von unten mit Geländer und Wasser dahinter",
+        "beschr": "Brückenbogen von unten.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanalbruecke-durchblick.jpg",
+        "alt": "Blick durch den Brückenbogen auf ruhiges Wasser mit Spiegelung",
+        "beschr": "Blick durch den Brückenbogen auf den Stichkanal.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "veltag-kanalseite-spiegelung.jpg",
+        "alt": "Lange Hallen am Ufer eines Kanals mit Spiegelung im Wasser und einem Kran",
+        "beschr": "Hallen am gegenüberliegenden Ufer des Stichkanals. Nach Angabe von Jens-Martin Krieg die Kanalseite der Veltag; durch Quellen nicht belegt.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-gegenufer.jpg",
+        "alt": "Kanal zwischen kahlen Bäumen mit einer Brücke im Hintergrund",
+        "beschr": "Stichkanal mit Blick zum Gegenufer.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "kanal-ufer-kiefern.jpg",
+        "alt": "Kanalufer mit Kiefern und Blick auf das andere Ufer",
+        "beschr": "Ufer des Stichkanals mit Kiefern.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "kanal-ufer-spiegelung.jpg",
+        "alt": "Böschung am Kanal mit Spiegelung der Uferbäume im Wasser",
+        "beschr": "Kanalufer mit Spiegelung im Wasser.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-uferweg.jpg",
+        "alt": "Unbefestigter Weg zwischen kahlen Bäumen",
+        "beschr": "Weg am Ufer des Stichkanals.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-betonmauer-hof.jpg",
+        "alt": "Betonmauer, dahinter Halle und Betriebshof mit Containern",
+        "beschr": "Betonmauer am Ufer, dahinter ein Betriebshof mit Halle.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-ufermauer-container.jpg",
+        "alt": "Weiße Ziegelmauer mit Graffiti am Wasser, davor ein Container",
+        "beschr": "Ufermauer mit Container am Kanal.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-backsteinmauer.jpg",
+        "alt": "Helle Backsteinmauer mit Graffiti über einem Betriebshof",
+        "beschr": "Backsteinmauer am Kanalufer über dem Betriebshof.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-hof-lange-halle.jpg",
+        "alt": "Betriebshof mit einer langen Halle mit Fensterbändern",
+        "beschr": "Betriebshof mit langer Halle, heutiger Zustand.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-halle-kran.jpg",
+        "alt": "Hallen mit Kran, im Vordergrund Betonplatten",
+        "beschr": "Hallen auf dem heutigen Gewerbegelände. Ein Firmenschild ist unkenntlich gemacht.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-uferblick-gebaeude.jpg",
+        "alt": "Kanal mit Spiegelung, am linken Ufer Gebäude",
+        "beschr": "Blick den Stichkanal entlang, am linken Ufer Gewerbebauten.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
       }
     ]
   },
