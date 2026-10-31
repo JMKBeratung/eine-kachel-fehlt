@@ -1206,7 +1206,7 @@
       "text": "eigener Text des Projekts, Tatsachen mit Quelle",
       "koordinate": "keine",
       "namen": "keine Namen",
-      "foto": "kein Foto",
+      "foto": "Fotos von Jens-Martin Krieg (Bahnstrecke); Pläne Dritter, Rechte nicht abschließend geklärt",
       "status": "frei"
     },
     "bilder": [
@@ -1221,6 +1221,36 @@
         "alt": "Bauzeichnung einer langen Baracke mit Grundriss und Ansicht",
         "beschr": "Bauzeichnung einer Baracke der Dürener Metallwerke AG, Bauabteilung, datiert 30.9.1940, Maßstab 1:100, mit Stempel «Gehört zum Bauschein» (Nummer und Datum nicht sicher lesbar). Der Grundriss misst etwa 30,16 mal 8 m, mit zwei Eingangsvorbauten und Trennwänden, die Ansicht zeigt einen Ziegelsockel. Die handschriftliche Grundstücksangabe oben ist nicht sicher lesbar, ob es die im Lageplan von 1941 eingezeichnete Wohnbaracke ist, geht aus dem Blatt nicht hervor. Die Vorlage ist um 180 Grad gedreht",
         "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) I, Bild 098 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "bahnstrecke-gleise-masten.jpg",
+        "alt": "Zwei Gleise mit Oberleitungsmasten und trockenem Gras am Streckenrand",
+        "beschr": "Die Bahnstrecke im Bereich des früheren Haltepunkts, heutiger Zustand. Die genaue Lage des Haltepunkts ist nicht eingemessen.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "betonkante-bahnstrecke-wald.jpg",
+        "alt": "Bemooste Betonkante mit Rissen im Wald, davor Kiefernzweige",
+        "beschr": "Lange Betonkante im Wald neben der Bahnstrecke. Nach Angabe von Jens-Martin Krieg der alte Bahnsteig; durch Quellen nicht belegt.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "betonkante-kiefernwald.jpg",
+        "alt": "Lange Betonkante mit Moos und Rissen im lichten Kiefernwald",
+        "beschr": "Die Betonkante im Kiefernwald von der Seite.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "bahn-kilometerstein-23.jpg",
+        "alt": "Hoher Betonstein mit eingemeißelter 23 im trockenen Gras",
+        "beschr": "Betonstein mit der Zahl 23 neben der Bahnstrecke, vermutlich ein Streckenstein.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "bahn-schild-23-0.jpg",
+        "alt": "Weißes Kilometerschild mit schwarzen Ziffern 23 und 0 vor einem Feld",
+        "beschr": "Kilometerschild «23 0» an der Bahnstrecke.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
       }
     ]
   },
