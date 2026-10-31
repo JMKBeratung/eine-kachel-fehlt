@@ -1058,7 +1058,7 @@
     "gruppe": "Verfolgung und Ereignisse",
     "lat": 52.66372,
     "lon": 13.21531,
-    "lage": "ungefähr: Koordinate laut Wikipedia (52.6637, 13.2153), am Veltener Stichkanal beim heutigen Betonfertigteilwerk, Gemarkung Hennigsdorf. Die Gebäude sind abgerissen, der Standort ist vor Ort zu prüfen.",
+    "lage": "ungefähr: Koordinate laut Wikipedia (52.6637, 13.2153), am Veltener Stichkanal beim heutigen Betonfertigteilwerk, Gemarkung Hennigsdorf. Das Gelände des früheren Meißnerhofs ist heute Privatgelände und überbaut; die Stele steht nicht auf diesem Privatgelände (Angabe von Jens-Martin Krieg, 1.11.2026). Die genaue Lage des Hofs ist vor Ort zu prüfen.",
     "gewissheit": "belegt (Sekundärquellen), Datierung widersprüchlich",
     "text": "1933 richteten die Nationalsozialisten in Velten ein frühes Lager im Meissnershof ein. Nach seiner Auflösung kamen Häftlinge nach Oranienburg. In der Literatur werden Richard Ungermann und Oskar Debus als Opfer genannt. Eine Gedenktafel nennt 1945/46, die Literatur 1933. Was genau geschah und wo das Gelände lag, ist noch zu klären. Nach dem Handbuch «Gedenkstätten für die Opfer des Nationalsozialismus» (1999, S. 362) bestand das Lager ab März 1933 in einem unbewohnten Anwesen im Forstbezirk Hohenschöpping zwischen Velten und Hennigsdorf. Es war Teillager des frühen KZ Oranienburg und wurde, um den brutalen Umgang mit den Gefangenen zu verdecken, als «Fahrschule der SA» bezeichnet. Ende 1933 wurde es aufgelöst, die Gefangenen kamen ins KZ Oranienburg. Richard Ungermann, KPD-Mitglied und Ofenarbeiter im Stahlwerk Hennigsdorf, wurde danach am 14. Mai 1933 mit anderen Regimegegnern verhaftet und zwei Tage später im Meissnershof erschossen. Seine Leiche sei in einem Sack in der Havel bei Hennigsdorf versenkt worden. Die alte Gedenktafel an seinem Wohnhaus in der heutigen Wilhelmstraße 19 nannte Folterungen als Todesursache, die neue Tafel nennt seine Ermordung am 16.5.1933.",
     "quellen": "Wikipedia, Artikel zu Velten und zum frühen Lager (eigene Zusammenfassung); Gedenktafel vor Ort. Primärquellen stehen aus. Literatur: Endlich u. a., Gedenkstätten für die Opfer des Nationalsozialismus. Eine Dokumentation, Band II, Bonn 1999 (Bundeszentrale für politische Bildung), Eintrag Velten, S. 362 f.",
@@ -1079,6 +1079,18 @@
         "alt": "Hohe graue Informationstafel am Rand eines Waldstücks, dahinter ein Zaun und Laubbäume im Winter",
         "beschr": "Informationstafel zum Konzentrationslager Meissnershof der Nauener SA am Standort, aufgestellt von der Stiftung Brandenburgische Gedenkstätten 2019. Das Foto zeigt die Tafel im Gelände, aufgenommen am 16.12.2023. Der genaue Verlauf des damaligen Lagergeländes ist damit nicht belegt.",
         "quelle": "Quelle: eigene Aufnahme der Initiative Eine Kachel fehlt, 16.12.2023. Die Tafel selbst ist ein Werk der Stiftung Brandenburgische Gedenkstätten und nur als Ortsaufnahme zu sehen."
+      },
+      {
+        "datei": "waldweg-schild-privatgrundstueck.jpg",
+        "alt": "Laubwald im Winter, an einem Baum ein weißes Schild mit roter Umrandung und der Aufschrift Privatgrundstück",
+        "beschr": "Waldweg im Umfeld der Stele mit dem Schild «Privatgrundstück, Betreten und Befahren für Unbefugte verboten». Das Gelände des früheren Meißnerhofs ist heute Privatgelände und überbaut.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023"
+      },
+      {
+        "datei": "waldweg-kurve-schild.jpg",
+        "alt": "Asphaltierter Waldweg mit Kurve, links am Rand ein Schild Privatgrundstück, im Hintergrund Bäume und Gewerbebauten",
+        "beschr": "Derselbe Waldweg mit Blick in die Kurve, links das Schild «Privatgrundstück».",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023"
       }
     ]
   },
