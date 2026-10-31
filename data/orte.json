@@ -1622,9 +1622,9 @@
     "id": "V38",
     "titel": "Stolpersteine für die Familie Lehmann",
     "gruppe": "Gräber und Gedenken",
-    "lat": null,
-    "lon": null,
-    "lage": "noch nicht eingemessen, an der Breiten Straße in Velten",
+    "lat": 52.6885,
+    "lon": 13.183,
+    "lage": "Anhaltspunkt an der Breiten Straße nach der Adresse laut Wikipedia, nicht eingemessen, Abweichung einige zehn Meter.",
     "gewissheit": "belegt (eigene Fotos der Steine, Broschüre, Wikipedia)",
     "text": "An der Breiten Straße liegen vier Stolpersteine für die Familie Lehmann. Dr. Alfred Lehmann war Allgemeinarzt in Velten und im Ersten Weltkrieg Frontarzt. Nach 1933 wurde er als jüdischer Arzt boykottiert. Antisemitischer und politischer Druck zwangen ihn, sein Veltener Wohnhaus zu verkaufen; die Familie zog nach Berlin. Dr. Alfred Lehmann starb am 30. September 1937 in Berlin und wurde auf dem Jüdischen Friedhof Berlin-Weißensee beigesetzt.\n\nSeine Frau Margarethe, geborene Stein, floh im August 1939 mit der Tochter Lili nach Schottland und starb 1945 in Glasgow. Sohn Herbert lebte seit 1934 in England und diente später in der britischen Armee. Lili Lehmann wanderte 1949 nach Kanada aus. Die Stolpersteine wurden am 30. März 2015 verlegt.\n\nDas Geburtsjahr von Dr. Alfred Lehmann ist nicht einheitlich überliefert: Der Stein und Wikipedia nennen 1887, die Broschüre der Initiativgruppe nennt den 4.12.1883, die Stadt Velten 1878. Die Stadt Velten stellt auf ihrer Seite die Stolpersteine vor.",
     "quellen": "Eigene Fotos der Stolpersteine (Jens-Martin Krieg, 16.12.2023); Broschüre «Familie Lehmann» der Initiativgruppe gegen Gewalt und Rassismus Velten; Wikipedia, «Liste der Stolpersteine in Velten»; Stadt Velten, Seite Stolpersteine: https://velten.de/Stadtleben-Tourismus/Unsere-Stadt/Geschichte/Stolpersteine/.",
@@ -1634,7 +1634,7 @@
     "route": "",
     "rechte": {
       "text": "eigener Text des Projekts, Tatsachen mit Quelle",
-      "koordinate": "keine",
+      "koordinate": "Anhaltspunkt nach heutiger Adresse (Näherung, nicht eingemessen)",
       "namen": "Namen der Familie Lehmann nach den öffentlich verlegten Stolpersteinen, Entscheidung Jens-Martin Krieg (1.11.2026)",
       "foto": "Fotos von Jens-Martin Krieg",
       "status": "frei"
@@ -1677,5 +1677,51 @@
         "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
       }
     ]
+  },
+  {
+    "id": "V39",
+    "titel": "Stolpersteine für Erna und Gustav Gersinski",
+    "gruppe": "Gräber und Gedenken",
+    "lat": 52.6921,
+    "lon": 13.172,
+    "lage": "Anhaltspunkt an der Wilhelmstraße nach der Adresse laut Stadt Velten, nicht eingemessen, Abweichung einige zehn Meter. Welche Steine wo liegen, ist vor Ort noch zu prüfen.",
+    "gewissheit": "belegt (Broschüre, Stadt Velten), genaue Stelle der Steine offen",
+    "text": "An der Wilhelmstraße liegen Stolpersteine für Erna und Gustav Gersinski, verlegt am 20. Februar 2020.\n\nErna Gersinski, geborene Jung (1896 in Velten bis 1964 in Hennigsdorf), war 1919 für die KPD Gemeinderätin. Im September 1933 wurde sie acht Wochen im KZ Oranienburg festgehalten und misshandelt. Später half sie im Widerstand, kümmerte sich um Kinder Verfolgter und traf sich mit Zwangsarbeitern. Nach 1945 war sie Stadtverordnete.\n\nGustav Gersinski (1893 in Groß Brausen bis April 1945 im KZ Bergen-Belsen) war Ortsgruppenvorsitzender der KPD. 1933 wurde er verhaftet (Rathauskeller Velten, Sonnenburg, Lichtenburg) und Ende 1934 entlassen. Er hielt Kontakt zu Zwangsarbeitern, besonders zu tschechischen. Nach dem 20. Juli 1944 wurde er erneut verhaftet und kam ins KZ Sachsenhausen und dann nach Bergen-Belsen. Sein letzter Brief stammt von etwa dem 10. April 1945. Die Viktoriastraße hieß von 1946 bis 1991 Gustav-Gersinski-Straße.\n\nDas Todesdatum ist nicht einheitlich überliefert: Die Broschüre nennt April 1945, Wikipedia nur 1945. Nach Wikipedia liegen in der Wilhelmstraße drei Stolpersteine, die Zuordnung der Hausnummern ist zwischen den Quellen nicht einheitlich.",
+    "quellen": "Broschüre «Erna und Gustav Gersinski und Richard Ungermann» der Initiativgruppe gegen Gewalt und Rassismus Velten; Wikipedia, «Liste der Stolpersteine in Velten»; Stadt Velten, Seite Stolpersteine: https://velten.de/Stadtleben-Tourismus/Unsere-Stadt/Geschichte/Stolpersteine/.",
+    "foto": null,
+    "personen": null,
+    "region": "velten",
+    "route": "",
+    "rechte": {
+      "text": "eigener Text des Projekts, Tatsachen mit Quelle",
+      "koordinate": "Anhaltspunkt nach heutiger Adresse (Näherung, nicht eingemessen)",
+      "namen": "Namen nach den öffentlich verlegten Stolpersteinen, Entscheidung Jens-Martin Krieg (1.11.2026)",
+      "foto": "kein Foto",
+      "status": "frei"
+    },
+    "bilder": []
+  },
+  {
+    "id": "V40",
+    "titel": "Stolperstein für Richard Ungermann",
+    "gruppe": "Gräber und Gedenken",
+    "lat": 52.6934,
+    "lon": 13.1716,
+    "lage": "Anhaltspunkt an der Wilhelmstraße nach der Wohnadresse laut Broschüre, nicht eingemessen, Abweichung einige zehn Meter. Das Wohnhaus steht nicht mehr; der genaue Ort des Steins ist offen. Der Punkt liegt nahe V34.",
+    "gewissheit": "belegt (Broschüre), genaue Stelle des Steins offen",
+    "text": "An der Wilhelmstraße liegt ein Stolperstein für Richard Ungermann, verlegt am 20. Februar 2020.\n\nRichard Ungermann (9.7.1908 in Gudgallen, Ostpreußen, bis Anfang April 1933) war Landarbeiter, ab 1927 in Velten und Ofenarbeiter im Stahlwerk Hennigsdorf. Er war Mitglied des Roten Frontkämpferbundes, beteiligte sich 1929 an einem Streik und war danach arbeitslos. Er wohnte zur Untermiete an der Wilhelmstraße; das Haus steht nicht mehr. Die Straße hieß von 1946 bis 1991 Ungermannstraße.\n\nAm 3. März 1933 wurde er verhaftet, im Rathaus Velten und in einem SA-Lokal festgehalten und dann im frühen Lager Meißnerhof (V02) schwer misshandelt. Er starb Anfang April 1933, seine Leiche wurde Wochen später gefunden. Er wurde 25 Jahre alt.\n\nDas Todesdatum ist nicht einheitlich überliefert: Der Stein nennt April 1933, die Gedenktafel und die Stadt Velten nennen den 16. Mai 1933, die Broschüre Anfang April 1933.",
+    "quellen": "Broschüre «Erna und Gustav Gersinski und Richard Ungermann» der Initiativgruppe gegen Gewalt und Rassismus Velten; Wikipedia, «Liste der Stolpersteine in Velten»; Stadt Velten, Seite Stolpersteine: https://velten.de/Stadtleben-Tourismus/Unsere-Stadt/Geschichte/Stolpersteine/.",
+    "foto": null,
+    "personen": null,
+    "region": "velten",
+    "route": "",
+    "rechte": {
+      "text": "eigener Text des Projekts, Tatsachen mit Quelle",
+      "koordinate": "Anhaltspunkt nach heutiger Adresse (Näherung, nicht eingemessen)",
+      "namen": "Namen nach den öffentlich verlegten Stolpersteinen, Entscheidung Jens-Martin Krieg (1.11.2026)",
+      "foto": "kein Foto",
+      "status": "frei"
+    },
+    "bilder": []
   }
 ]
