@@ -1617,5 +1617,65 @@
         "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
       }
     ]
+  },
+  {
+    "id": "V38",
+    "titel": "Stolpersteine für die Familie Lehmann",
+    "gruppe": "Gräber und Gedenken",
+    "lat": null,
+    "lon": null,
+    "lage": "noch nicht eingemessen, an der Breiten Straße in Velten",
+    "gewissheit": "belegt (eigene Fotos der Steine, Broschüre, Wikipedia)",
+    "text": "An der Breiten Straße liegen vier Stolpersteine für die Familie Lehmann. Dr. Alfred Lehmann war Allgemeinarzt in Velten und im Ersten Weltkrieg Frontarzt. Nach 1933 wurde er als jüdischer Arzt boykottiert. Antisemitischer und politischer Druck zwangen ihn, sein Veltener Wohnhaus zu verkaufen; die Familie zog nach Berlin. Dr. Alfred Lehmann starb am 30. September 1937 in Berlin und wurde auf dem Jüdischen Friedhof Berlin-Weißensee beigesetzt.\n\nSeine Frau Margarethe, geborene Stein, floh im August 1939 mit der Tochter Lili nach Schottland und starb 1945 in Glasgow. Sohn Herbert lebte seit 1934 in England und diente später in der britischen Armee. Lili Lehmann wanderte 1949 nach Kanada aus. Die Stolpersteine wurden am 30. März 2015 verlegt.\n\nDas Geburtsjahr von Dr. Alfred Lehmann ist nicht einheitlich überliefert: Der Stein und Wikipedia nennen 1887, die Broschüre der Initiativgruppe nennt den 4.12.1883, die Stadt Velten 1878. Die Stadt Velten stellt auf ihrer Seite die Stolpersteine vor.",
+    "quellen": "Eigene Fotos der Stolpersteine (Jens-Martin Krieg, 16.12.2023); Broschüre «Familie Lehmann» der Initiativgruppe gegen Gewalt und Rassismus Velten; Wikipedia, «Liste der Stolpersteine in Velten»; Stadt Velten, Seite Stolpersteine: https://velten.de/Stadtleben-Tourismus/Unsere-Stadt/Geschichte/Stolpersteine/.",
+    "foto": null,
+    "personen": null,
+    "region": "velten",
+    "route": "",
+    "rechte": {
+      "text": "eigener Text des Projekts, Tatsachen mit Quelle",
+      "koordinate": "keine",
+      "namen": "Namen der Familie Lehmann nach den öffentlich verlegten Stolpersteinen, Entscheidung Jens-Martin Krieg (1.11.2026)",
+      "foto": "Fotos von Jens-Martin Krieg",
+      "status": "frei"
+    },
+    "bilder": [
+      {
+        "datei": "stolpersteine-lehmann-gruppe.jpg",
+        "alt": "Vier quadratische Messingplatten mit Inschriften, gerahmt von Kopfsteinpflaster",
+        "beschr": "Die vier Stolpersteine für die Familie Lehmann an der Breiten Straße.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "stolperstein-alfred-lehmann.jpg",
+        "alt": "Messingplatte im Pflaster mit der Inschrift für Dr. Alfred Lehmann",
+        "beschr": "Stolperstein für Dr. Alfred Lehmann: «Hier wohnte und praktizierte Dr. Alfred Lehmann, Jg. 1887, Berufsverbot 1933, gedemütigt, entrechtet, tot 30.9.1937».",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "stolperstein-margarethe-lehmann.jpg",
+        "alt": "Messingplatte im Pflaster mit der Inschrift für Margarethe Lehmann",
+        "beschr": "Stolperstein für Margarethe Lehmann, geb. Stein: «Jg. 1883, Flucht 1939, Schottland».",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "stolperstein-lili-lehmann.jpg",
+        "alt": "Messingplatte im Pflaster mit der Inschrift für Lili Lehmann",
+        "beschr": "Stolperstein für Lili Lehmann: «Jg. 1920, Flucht 1939, Schottland».",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "stolperstein-herbert-lehmann.jpg",
+        "alt": "Messingplatte im Pflaster mit der Inschrift für Herbert Lehmann",
+        "beschr": "Stolperstein für Herbert Lehmann: «Jg. 1917, Flucht 1934, England, Schottland».",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "breite-strasse-stolpersteine.jpg",
+        "alt": "Straße mit parkenden Autos und Häusern auf der gegenüberliegenden Seite",
+        "beschr": "Die Breite Straße in Velten mit Blick über die Fahrbahn auf die Häuserzeile.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      }
+    ]
   }
 ]
