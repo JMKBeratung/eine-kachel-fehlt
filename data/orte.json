@@ -150,25 +150,234 @@
   },
   {
     "id": "V05",
-    "titel": "Veltener Maschinenbau GmbH (Velma)",
+    "titel": "Veltener Maschinenbau GmbH (Velma) und Zwangsarbeiterinnenlager",
     "gruppe": "Lager und Betriebe",
-    "lat": 52.6727,
-    "lon": 13.1962,
-    "lage": "Anhaltspunkt, geschätzt aus Plänen und Luftbild: Die Hallen der Velma lagen neben dem Werk Ikaria (V03) zwischen Berliner Straße und Werkslager (V15). Die Reichsbetriebskarte nennt Berliner Straße 14, das Fernsprechbuch 1938 nur «Berliner Str.». Nicht eingemessen.",
-    "gewissheit": "Betrieb belegt, Lage Anhaltspunkt",
-    "text": "Rüstungsbetrieb für Luftwaffengeräte, 1936 gegründet, im März 1944 mit 1.695 Beschäftigten. Er bildete mit der Ikaria (Veltener Maschinenbau GmbH Ikaria) einen Werksverbund.\n\n## Wohnbarackenlager\n\nAm 11.12.1942 beantragte die Firma ein Wohnbarackenlager für ausländische Arbeitskräfte (Berliner Straße 14). Die Baubeschreibung vom 5.2.1944 nennt ein «Barackenlager für Ostarbeiterinnen»: RAD-Baracken Nr. 6 bis 29 und 31 bis 38, die der Baubevollmächtigte des Ministeriums Speer lieferte, dazu die Baracke Nr. 30. Neun Baracken (Nr. 26, 27, 31 bis 35, 37 und 38) waren Wohnbaracken, jede mit 54 Ostarbeiterinnen belegt, also bis zu 486 Frauen. Weitere Baracken dienten als Abort mit 20 Toiletten, als Küche mit Waschraum, als Aufenthalts- und Speiseraum sowie für Lagerführerin, Lagerärztin und Revierstube. Das Lager lag innerhalb des Werkgeländes und war nur vom Werk aus zu betreten; sein Abwasser floss über die Kläranlage der Ikaria Werke in den Veltener Stichkanal.\n\n## Außenlager Velten\n\nDas Außenlager-Verzeichnis im Buch «Frauen-KZ Ravensbrück» (1982) nennt die Veltener Maschinenbau GmbH mit 800 Frauen aus Ravensbrück. Auch Kaienburg (2021) führt das Frauenlager Velten im Verzeichnis der Außenlager des KZ Sachsenhausen mit der Veltener Maschinenbau GmbH Ikaria.",
-    "quellen": "Reichsbetriebskartei, Bundesarchiv R 3/2001/0270 (Abschrift 2004). Bauantrag 11.12.1942 und Baubeschreibung 5.2.1944 (Abschriften aus Bauakten, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf). Presse: H. Fritsch, „Topographie der Zwangsarbeiterlager in Velten wird klarer“, Oranienburger Generalanzeiger, 29.5.2002; H. Fritsch, „Abwasserpläne führten auf die richtige Spur“, Oranienburger Generalanzeiger, Mai 2002. Literatur: Zörner (Leitung Autorenkollektiv), Frauen-KZ Ravensbrück, Berlin (VEB Deutscher Verlag der Wissenschaften) 1982, S. 80. Literatur: Kaienburg, Hermann, Das Konzentrationslager Sachsenhausen 1936 bis 1945. Zentrallager des KZ-Systems, Berlin (Metropol) 2021, S. 348.",
+    "lat": 52.6716,
+    "lon": 13.2012,
+    "lage": "Der Kartenpunkt gilt dem Lager. Anhaltspunkt am Veltener Stichkanal, aus Plänen abgeleitet, nicht eingemessen (Abweichung bis etwa 150 m). Der Lageplan der Veltener Maschinenbau GmbH (gezeichnet 29.8.1942, Bauschein Nr. 216; Ordner Geschichtsprojekt 2004) zeigt die Baracken Nr. 26 bis 38 mit eigener Umzäunung und Kläranlage zwischen den Hallen I bis III und dem Stichkanal. Das Luftbild vom 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) trägt dort in der Legende von Jens-Martin Krieg «Baracken Ikaria». Früher stand der Punkt an der Berliner Straße 13 (OpenStreetMap); diese Anschrift (Berliner Straße 13/14) nennen Sterberegister und Reichsbetriebskarte, das Lager lag aber am Kanal. Am 31.10.2026 wurde der Lageplan von 1942 am Luftbild von 1945 und am heutigen Luftbild ausgerichtet (Kanalkante, Brücke, Straße nach Hohenschöpping, Barackenreihen, Hallen; Jens-Martin Krieg). Danach liegen die Baracken 26 bis 38 am Kanal bei 52.6716, 13.2012. Der Punkt wurde dorthin gesetzt (rund 470 m südöstlich des bisherigen). Näherung, nicht eingemessen. Die Hallen der Velma lagen neben dem Werk Ikaria (V03) zwischen Berliner Straße und Lager. Die Reichsbetriebskarte nennt Berliner Straße 14, das Fernsprechbuch 1938 nur «Berliner Str.»; der Betrieb selbst ist nicht eingemessen.",
+    "gewissheit": "Betrieb und Lager belegt, Lage aus Plänen abgeleitet",
+    "text": "Rüstungsbetrieb für Luftwaffengeräte, 1936 gegründet, im März 1944 mit 1.695 Beschäftigten. Er bildete mit der Ikaria (Veltener Maschinenbau GmbH Ikaria) einen Werksverbund.\n\n## Zwangsarbeiterinnenlager am Stichkanal\n\nDas Lager der Veltener Maschinenbau GmbH und der Ikaria Werke GmbH für ausländische Arbeitskräfte nennt diese Karte «Zwangsarbeiterinnenlager der Veltener-Maschinenbau-Ikaria-Werke».\n\nAm 11.12.1942 beantragte die Firma ein Wohnbarackenlager für ausländische Arbeitskräfte (Berliner Straße 14). Die Baubeschreibung vom 5.2.1944 nennt ein «Barackenlager für Ostarbeiterinnen»: RAD-Baracken Nr. 6 bis 29 und 31 bis 38, die der Baubevollmächtigte des Ministeriums Speer lieferte, dazu die Baracke Nr. 30. Neun Baracken (Nr. 26, 27, 31 bis 35, 37 und 38) waren Wohnbaracken, jede mit 54 Ostarbeiterinnen belegt, also bis zu 486 Frauen. Weitere Baracken dienten als Abort mit 20 Toiletten, als Küche mit Waschraum, als Aufenthalts- und Speiseraum sowie für Lagerführerin, Lagerärztin und Revierstube. Das Lager lag innerhalb des Werkgeländes und war nur vom Werk aus zu betreten; sein Abwasser floss über die Kläranlage der Ikaria Werke in den Veltener Stichkanal.\n\n## Außenlager Velten\n\nDas Außenlager-Verzeichnis im Buch «Frauen-KZ Ravensbrück» (1982) nennt die Veltener Maschinenbau GmbH mit 800 Frauen aus Ravensbrück. Auch Kaienburg (2021) führt das Frauenlager Velten im Verzeichnis der Außenlager des KZ Sachsenhausen mit der Veltener Maschinenbau GmbH Ikaria.\n\n## Belegung und Todesfälle\n\nEine Zeitzeugin nennt über 1000 Personen, was nicht aktenkundig ist. Nach der Baubeschreibung vom 5.2.1944 waren es bis zu 486 Frauen in neun Wohnbaracken. Im Sterberegister steht die Anschrift Berliner Straße 13/14 bei mindestens 14 Todesfällen von 1942 bis 1945 (Auswahl).",
+    "quellen": "Sterberegister Velten (Abschrift 2004); Briefe 2004 (Erinnerung); Projektrecherche Velten (Stand 8.10.2026). Baubeschreibung 5.2.1944 (Abschriften aus Bauakten, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf); Lageplan Veltener Maschinenbau 29.8.1942; Katasterauszug Flurstücke VeMa 27.5.1942; Luftbild Velten 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) mit handschriftlicher Legende, nicht bestätigt. Pläne als Abbildung: siehe Bildunterschriften. Presse: H. Fritsch, „Topographie der Zwangsarbeiterlager in Velten wird klarer“, Oranienburger Generalanzeiger, 29.5.2002; H. Fritsch, „Abwasserpläne führten auf die richtige Spur“, Oranienburger Generalanzeiger, Mai 2002. Lageplan Barackenlager Veltener-Maschinenbau-Ikaria-Werke, 2.6.1942 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-II_062). Bauantrag 11.12.1942, Baubeschreibung 5.2.1944, Zeichnungen Abborthaus und Einzäunung (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-I_018, ZWA25-II_057, 059 und 055). Sterbebuch des Standesamts Velten 1942 bis 1945 (Abschrift im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, gegengelesen, eigene Auszählung; Auswahl); Namen, Alter und Todesarten nur in der Kartenansicht, Sterbedaten ohne Namen auf dieser Seite. Einordnung: Artikel «Wie starben die Menschen? Todesarten in Velten 1942 bis 1945 und ihre Einordnung» (todesarten-einordnung.html) mit Literatur. Reichsbetriebskartei, Bundesarchiv R 3/2001/0270 (Abschrift 2004). Literatur: Zörner (Leitung Autorenkollektiv), Frauen-KZ Ravensbrück, Berlin (VEB Deutscher Verlag der Wissenschaften) 1982, S. 80. Literatur: Kaienburg, Hermann, Das Konzentrationslager Sachsenhausen 1936 bis 1945. Zentrallager des KZ-Systems, Berlin (Metropol) 2021, S. 348.",
     "foto": null,
-    "personen": null,
+    "personen": [
+      [
+        "71/1942",
+        "Polazeja Andritschuk",
+        "5.8.1942",
+        "28 J.",
+        "Selbsttötung (Eintrag: «Selbstmord»)"
+      ],
+      [
+        "44/1944",
+        "Nadja Kotschergina",
+        "27.2.1944",
+        "18 J.",
+        "Lungentuberkulose"
+      ],
+      [
+        "72/1944",
+        "Jakob Socha",
+        "21.4.1944",
+        "51 J.",
+        "Herzfehler und Lungenentzündung"
+      ],
+      [
+        "102/1944",
+        "Alexandra Rjabrowa",
+        "26.6.1944",
+        "ca. 4 J.",
+        "Lungentuberkulose"
+      ],
+      [
+        "115/1944",
+        "Matrena Kaschena geb. Troschichina",
+        "15.7.1944",
+        "ca. 77 J.",
+        "Herzklappenfehler"
+      ],
+      [
+        "116/1944",
+        "Maria Omeltschuk (I)",
+        "15.7.1944",
+        "23 J.",
+        "Lungentuberkulose"
+      ],
+      [
+        "117/1944",
+        "Georges Chaffoteaux",
+        "19.7.1944",
+        "45 J.",
+        "Herzschlag"
+      ],
+      [
+        "121/1944",
+        "Katerina Isakowa",
+        "4.8.1944",
+        "ca. 64 J.",
+        "Herzklappenfehler"
+      ],
+      [
+        "137/1944",
+        "Maria Omeltschuk (II)",
+        "2.9.1944",
+        "21 J.",
+        "Lungentuberkulose"
+      ],
+      [
+        "158/1944",
+        "Hanna (Lesung unsicher) Waschchon geb. Jaschko",
+        "5.11.1944",
+        "23 J.",
+        "akute Herzschwäche"
+      ],
+      [
+        "6/1945",
+        "Odarka Srebnjuk",
+        "2.1.1945",
+        "27 J.",
+        "Bauchfellentzündung"
+      ],
+      [
+        "18/1945",
+        "Wassilij Zeruk",
+        "26.1.1945",
+        "16 Tage",
+        "Ernährungsstörung, Durchfall"
+      ],
+      [
+        "93/1945",
+        "Andre Kratjuk",
+        "19.4.1945",
+        "4 Mon.",
+        "Lungenentzündung"
+      ]
+    ],
     "region": "velten",
     "route": "",
     "rechte": {
       "text": "eigener Text des Projekts, Tatsachen mit Quelle",
-      "koordinate": "keine",
-      "namen": "keine Namen",
-      "foto": "kein Foto",
-      "status": "frei"
-    }
+      "koordinate": "aus Lageplänen abgeleitet (Anhaltspunkt)",
+      "namen": "Namen, Sterbetag, Alter und Todesart laut Sterbebuch Standesamt Velten (Veröffentlichung auf Entscheidung von Jens-Martin Krieg, 1.11.2026), nur in der Kartenansicht; keine Eltern, keine Geburtsdaten",
+      "foto": "Fotos von Jens-Martin Krieg (Kanalufer, Brücke); Pläne und Aktenblätter Dritter, Rechte nicht abschließend geklärt",
+      "status": "bedingt frei"
+    },
+    "bilder": [
+      {
+        "datei": "lageplan-vema-1942.jpg",
+        "alt": "Bauplan mit Hallen I bis III, dem Veltener Stichkanal und zwei Reihen nummerierter Baracken 26 bis 38",
+        "beschr": "Lageplan der Veltener Maschinenbau GmbH, gezeichnet 29.8.1942, Bauschein Nr. 216, baupolizeilich geprüft in Nauen 1944. Zwischen dem Veltener Stichkanal (oben) und den Hallen I bis III liegen die Baracken Nr. 26 bis 38 mit eigener Umzäunung und einer Kläranlage. Rechts die Straße nach Hohenschöpping. Eine Nordrichtung ist nicht eingezeichnet.",
+        "quelle": "Quelle: Lageplan Veltener Maschinenbau GmbH, 29.8.1942, Kopie im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "kataster-vema-1942.jpg",
+        "alt": "Katasterauszug mit Handzeichnung der Flurstücke an Stichkanal, Muhrgraben und Berliner Straße",
+        "beschr": "Katasterauszug (Handzeichnung nach den Katasterkarten) für die Grundstücke der Veltener Maschinenbau GmbH, Gemarkung Velten, Kartenblatt 7, ausgefertigt in Berlin-Spandau am 27.5.1942, Maßstab etwa 1:2500. Zu sehen sind der Stich-Kanal (oben), der Muhrgraben und die Berliner Straße. Die Hoheitszeichen der damaligen Behörde stehen auf dem Original und dienen hier der Dokumentation.",
+        "quelle": "Quelle: Katasteramt Nauen, Nebenstelle Spandau, 27.5.1942, Kopie im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "vema-lager-plan-1942-06.jpg",
+        "alt": "Lageplan mit zwei Reihen nummerierter Baracken, Waschraum und Nebengebäuden zwischen Stichkanal und Berliner Straße",
+        "beschr": "Lageplan des Barackenlagers der Veltener-Maschinenbau-Ikaria-Werke, Maßstab 1:1000, bei der Stadt eingegangen am 2.6.1942, geprüft am 24.6.1942. Zwischen dem Veltener Stichkanal (oben) und der Berliner Straße (unten) stehen die Baracken 4 bis 11 in zwei Reihen mit Hauptweg I und II, dazu Waschraum, Klosettanlage, Heizung, Trafo und die Baracken 2 und 3. Rechts liegt die Velma. Es ist ein anderer Plan als der vom 29.8.1942 oben; die Zählung der Baracken weicht ab",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 062 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "vema-baubeschreibung-1944-02-05.jpg",
+        "alt": "Maschinengeschriebene Baubeschreibung für ein Barackenlager für Ostarbeiterinnen, Velten, 5. Februar 1944",
+        "beschr": "Baubeschreibung der Veltener Maschinenbau GmbH «für Barackenlager für Ostarbeiterinnen», Velten, 5.2.1944. Die Baracken Nr. 6 bis 29 und 31 bis 38 sind RAD-Baracken, die der Baubevollmächtigte des Ministeriums Speer lieferte, ebenso die Baracke Nr. 30. Neun Wohnbaracken sind mit je 54 Ostarbeiterinnen belegt, rechnerisch 486 Frauen. Nr. 28 ist eine Abortbaracke mit 20 Toiletten, Nr. 29 enthält Werkküche, Vorrats- und Kartoffelkeller und Waschraum, Nr. 30 dient als Aufenthalts- und Speiseraum, in Nr. 36 sind Wohnraum der Lagerführerin, Lagerärztin, Lagerwache (Lesung nicht ganz sicher) und die Revierstube untergebracht. Das Lager liegt innerhalb des Werkgeländes und ist nur vom Werk aus zu betreten; auf der Kanalseite ist ein Tor, die Abwässer gehen über die Kläranlage der Ikaria-Werke in den Veltener Stichkanal. Unterschrift und Handzeichen sind unkenntlich gemacht",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 057 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "vema-bauantrag-1942-12-11.jpg",
+        "alt": "Formular «Bauantrag» der Veltener Maschinenbau GmbH vom 11. Dezember 1942 mit Eingangsstempel des Bürgermeisters",
+        "beschr": "Bauantrag der Veltener Maschinenbau GmbH an den Landrat in Nauen vom 11.12.1942 «zum Bau eines Wohnbarackenlagers für ausländische Arbeitskräfte» in Velten, Berliner Straße Nr. 14, mit vier Lageplänen und vier Bauzeichnungen; beim Bürgermeister eingegangen am 15.12.1942. Das Gelände wurde für die Kriegsdauer gepachtet, auch das Lager ist nur für die Kriegsdauer vorgesehen. Der Name des Verpächters und die Unterschrift sind unkenntlich gemacht",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) I, Bild 018 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "vema-abborthaus.jpg",
+        "alt": "Bauzeichnung eines Abborthauses mit Grundriss, Querschnitt, Giebel- und Längsansicht",
+        "beschr": "Bauzeichnung «Abborthaus», Maßstab 1:100, mit Stempel der Veltener Maschinenbau GmbH und Stempel «Gehört zum Bauschein» (Nummer und Datum nicht sicher lesbar). Der Grundriss misst rund 4,5 mal 4,6 m und trennt die Toilettenstände nach den Beschriftungen «Mannschaften» und «Führer». Die Vorlage ist um 180 Grad gedreht, eine Unterschrift unkenntlich gemacht",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 059 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "vema-einzaeunung-1943-03-26.jpg",
+        "alt": "Technische Zeichnung eines Holzzauns mit Pfosten und Latten, Maße in Metern",
+        "beschr": "Zeichnung «Einzäunung des Barackenlagers III (Holzzaun) der Veltener Maschinenbau GmbH», beim Bürgermeister eingegangen am 26.3.1943. Dargestellt sind Zaunfeld, Pfosten und Latten mit Maßen; am Kopf des Zauns sind zwei Reihen mit Kreuzen eingezeichnet, vermutlich Stacheldraht (Deutung nicht gesichert). Die Vorlage ist gedreht, eine Unterschrift unkenntlich gemacht",
+        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 055 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
+      },
+      {
+        "datei": "kanalbruecke-ansicht.jpg",
+        "alt": "Betonbrücke mit Bogen über einem Kanal, links ein Pegelpfahl mit gelber Spitze",
+        "beschr": "Brücke über den Veltener Stichkanal, Ansicht vom Ufer.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "veltag-kanalseite-spiegelung.jpg",
+        "alt": "Lange Hallen am Ufer eines Kanals mit Spiegelung im Wasser und einem Kran",
+        "beschr": "Hallen am gegenüberliegenden Ufer des Stichkanals. Nach Angabe von Jens-Martin Krieg die Kanalseite der Veltag; durch Quellen nicht belegt.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-gegenufer.jpg",
+        "alt": "Kanal zwischen kahlen Bäumen mit einer Brücke im Hintergrund",
+        "beschr": "Stichkanal mit Blick zum Gegenufer.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "kanal-ufer-kiefern.jpg",
+        "alt": "Kanalufer mit Kiefern und Blick auf das andere Ufer",
+        "beschr": "Ufer des Stichkanals mit Kiefern.",
+        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
+      },
+      {
+        "datei": "kanal-ufer-spiegelung.jpg",
+        "alt": "Böschung am Kanal mit Spiegelung der Uferbäume im Wasser",
+        "beschr": "Kanalufer mit Spiegelung im Wasser.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-uferweg.jpg",
+        "alt": "Unbefestigter Weg zwischen kahlen Bäumen",
+        "beschr": "Weg am Ufer des Stichkanals.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-betonmauer-hof.jpg",
+        "alt": "Betonmauer, dahinter Halle und Betriebshof mit Containern",
+        "beschr": "Betonmauer am Ufer, dahinter ein Betriebshof mit Halle.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-ufermauer-container.jpg",
+        "alt": "Weiße Ziegelmauer mit Graffiti am Wasser, davor ein Container",
+        "beschr": "Ufermauer mit Container am Kanal.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-backsteinmauer.jpg",
+        "alt": "Helle Backsteinmauer mit Graffiti über einem Betriebshof",
+        "beschr": "Backsteinmauer am Kanalufer über dem Betriebshof.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-hof-lange-halle.jpg",
+        "alt": "Betriebshof mit einer langen Halle mit Fensterbändern",
+        "beschr": "Betriebshof mit langer Halle, heutiger Zustand.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-halle-kran.jpg",
+        "alt": "Hallen mit Kran, im Vordergrund Betonplatten",
+        "beschr": "Hallen auf dem heutigen Gewerbegelände. Ein Firmenschild ist unkenntlich gemacht.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      },
+      {
+        "datei": "kanal-uferblick-gebaeude.jpg",
+        "alt": "Kanal mit Spiegelung, am linken Ufer Gebäude",
+        "beschr": "Blick den Stichkanal entlang, am linken Ufer Gewerbebauten.",
+        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
+      }
+    ],
+    "pquelle": "Sterbebuch des Standesamts Velten 1942 bis 1945 (Abschrift im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, gegengelesen; eine Auswahl, nicht vollständig). Anschrift laut Eintrag, kein Beleg für den Betrieb. Die Todesart ist die Eintragung des Standesbeamten, keine ärztliche Feststellung. Schreibweise wie gelesen. Berliner Straße 13/14; eine Totgeburt ist nicht namentlich aufgeführt."
   },
   {
     "id": "V06",
@@ -508,7 +717,7 @@
     }
   },
   {
-    "id": "V11",
+    "id": "V10",
     "titel": "Gasthaus Bergschloss, Unterkunft",
     "gruppe": "Lager und Betriebe",
     "lat": 52.6959,
@@ -530,14 +739,14 @@
     }
   },
   {
-    "id": "V12",
+    "id": "V11",
     "titel": "Kriegsgefangenenlager Mühlenstraße (Anhaltspunkt)",
     "gruppe": "Lager und Betriebe",
     "lat": 52.69404,
     "lon": 13.1738,
     "lage": "Anhaltspunkt an der Mühlenstraße 31 (heute 31A), Ecke Luisenstraße. Nach der heutigen Nummernfolge (Nr. 29 und 31A) lag die Nr. 30 unmittelbar westlich davon, wo heute der Volkspark steht. Hausnummern von 1943 können von den heutigen abweichen.",
     "gewissheit": "Lageradressen Nr. 30 und Nr. 31 belegt, genaue Lage wahrscheinlich; früheres Fabrikgelände der Veltag-Gruppe (Tafeln), Lager der Veltag nicht gleichgesetzt",
-    "text": "Zivillager Mühlenstraße 31: Das Sterbebuch der Stadt Velten (1942 bis 1945) nennt «Mühlenstr. 31» als Wohnort zweier Verstorbener, eines Ostarbeiters und eines Kindes. Angezeigt wurden die Todesfälle durch den Lagerführer. Hier bestand also ein ziviles Lager für ausländische Arbeitskräfte.\n\n## Kriegsgefangenenlager Mühlenstraße 30\n\nUnmittelbar daneben lag das Arbeitskommando der Stadt Velten mit 150 französischen Kriegsgefangenen (Wachlager, ab Dezember 1943, Fernsprechanschluss 1943 beantragt, im September 1944 genannt). Ein Veltag-Lieferschein vom 15. Februar 1940 ist an ein «Gefangenenlager, Mühlenstraße» gerichtet, ein Gefangenenlager bestand hier also schon Anfang 1940.\n\n## Lage der Nr. 30\n\nNach heutiger Nummernfolge fehlt die Nr. 30 zwischen den Häusern 29 und 31A, dort liegt der Volkspark. Der Block zwischen Wilhelmstraße und Luisenstraße ist unbebaut (Flurname «Zur Alten Weide»). Die Lage ist deshalb wahrscheinlich, aber nicht bewiesen.\n\n## Briefe\n\nNach Briefen von 2000 und 2002 bestand an der Mühlenstraße außerdem ein Zwangsarbeiterlager der Veltag, dessen Bauplan im Ofen- und Keramikmuseum liegt. Ob es mit diesen Lagern identisch ist, ist nicht belegt.\n\n## Infotafeln und Fabrikgelände\n\nDie Infotafeln des Ofenfabrik-Rundwegs nennen für die Mühlenstraße 30 die Ofenfabrik H. Frädrich und für die Mühlenstraße 31/32 die Ofenfabrik Grunow & Klauske; beide kamen 1924 an die Blumenfeld AG, die seit 1933 Veltag heißt (siehe V36). Die Lagerstandorte liegen damit auf früherem Fabrikgelände dieser Firmengruppe. Zusammen mit den Briefen spricht das dafür, dass das Veltag-Lager auf diesem Gelände lag. Wem das Gelände 1943 gehörte, ist nicht belegt.",
+    "text": "Zivillager Mühlenstraße 31: Das Sterbebuch der Stadt Velten (1942 bis 1945) nennt «Mühlenstr. 31» als Wohnort zweier Verstorbener, eines Ostarbeiters und eines Kindes. Angezeigt wurden die Todesfälle durch den Lagerführer. Hier bestand also ein ziviles Lager für ausländische Arbeitskräfte.\n\n## Kriegsgefangenenlager Mühlenstraße 30\n\nUnmittelbar daneben lag das Arbeitskommando der Stadt Velten mit 150 französischen Kriegsgefangenen (Wachlager, ab Dezember 1943, Fernsprechanschluss 1943 beantragt, im September 1944 genannt). Ein Veltag-Lieferschein vom 15. Februar 1940 ist an ein «Gefangenenlager, Mühlenstraße» gerichtet, ein Gefangenenlager bestand hier also schon Anfang 1940.\n\n## Lage der Nr. 30\n\nNach heutiger Nummernfolge fehlt die Nr. 30 zwischen den Häusern 29 und 31A, dort liegt der Volkspark. Der Block zwischen Wilhelmstraße und Luisenstraße ist unbebaut (Flurname «Zur Alten Weide»). Die Lage ist deshalb wahrscheinlich, aber nicht bewiesen.\n\n## Briefe\n\nNach Briefen von 2000 und 2002 bestand an der Mühlenstraße außerdem ein Zwangsarbeiterlager der Veltag, dessen Bauplan im Ofen- und Keramikmuseum liegt. Ob es mit diesen Lagern identisch ist, ist nicht belegt.\n\n## Infotafeln und Fabrikgelände\n\nDie Infotafeln des Ofenfabrik-Rundwegs nennen für die Mühlenstraße 30 die Ofenfabrik H. Frädrich und für die Mühlenstraße 31/32 die Ofenfabrik Grunow & Klauske; beide kamen 1924 an die Blumenfeld AG, die seit 1933 Veltag heißt (siehe V26). Die Lagerstandorte liegen damit auf früherem Fabrikgelände dieser Firmengruppe. Zusammen mit den Briefen spricht das dafür, dass das Veltag-Lager auf diesem Gelände lag. Wem das Gelände 1943 gehörte, ist nicht belegt.",
     "quellen": "Sterbebuch Velten 1942 bis 1945 (Eintragungen mit Wohnort Mühlenstr. 31; Namen hier nicht genannt); BLHA Rep. 2A I Kom 5884 (Mühlenstraße 30); Veltag-Lieferschein vom 15.2.1940 (Ordner Geschichtsprojekt 2004); Briefe 2000 und 2002 (Projektordner); Google Maps und OpenStreetMap (heutige Nummernfolge). Noch zu klären: Bauplan Ofenmuseum, Luftbild 1943 bis 1953, Kataster. Infotafeln Ofenfabrik-Rundweg Velten, Mühlenstraße 30 und 31/32 (Fotos Jens-Martin Krieg, 14.1.2024).",
     "foto": null,
     "personen": null,
@@ -552,7 +761,7 @@
     }
   },
   {
-    "id": "V14",
+    "id": "V12",
     "titel": "Barackenlager am Heidekrug (Theodor Bergmann & Co.)",
     "gruppe": "Lager und Betriebe",
     "lat": 52.6852,
@@ -594,238 +803,7 @@
     ]
   },
   {
-    "id": "V15",
-    "titel": "Zwangsarbeiterinnenlager der Veltener-Maschinenbau-Ikaria-Werke am Stichkanal",
-    "gruppe": "Lager und Betriebe",
-    "lat": 52.6716,
-    "lon": 13.2012,
-    "lage": "Anhaltspunkt am Veltener Stichkanal, aus Plänen abgeleitet, nicht eingemessen (Abweichung bis etwa 150 m). Der Lageplan der Veltener Maschinenbau GmbH (gezeichnet 29.8.1942, Bauschein Nr. 216; Ordner Geschichtsprojekt 2004) zeigt die Baracken Nr. 26 bis 38 mit eigener Umzäunung und Kläranlage zwischen den Hallen I bis III und dem Stichkanal. Das Luftbild vom 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) trägt dort in der Legende von Jens-Martin Krieg «Baracken Ikaria». Früher stand der Punkt an der Berliner Straße 13 (OpenStreetMap); diese Anschrift (Berliner Straße 13/14) nennen Sterberegister und Reichsbetriebskarte, das Lager lag aber am Kanal. Am 31.10.2026 wurde der Lageplan von 1942 am Luftbild von 1945 und am heutigen Luftbild ausgerichtet (Kanalkante, Brücke, Straße nach Hohenschöpping, Barackenreihen, Hallen; Jens-Martin Krieg). Danach liegen die Baracken 26 bis 38 am Kanal bei 52.6716, 13.2012. Der Punkt wurde dorthin gesetzt (rund 470 m südöstlich des bisherigen). Näherung, nicht eingemessen.",
-    "gewissheit": "wahrscheinlich, Lage aus Plänen abgeleitet",
-    "text": "Lager der Veltener Maschinenbau GmbH (Velma) und der Ikaria Werke GmbH für ausländische Arbeitskräfte. Eine Zeitzeugin nennt über 1000 Personen, was nicht aktenkundig ist. Im Sterberegister steht diese Anschrift bei mindestens 14 Todesfällen von 1942 bis 1945 (Auswahl). Nach der Baubeschreibung vom 5.2.1944 (siehe V05) standen im Lager der Veltener Maschinenbau GmbH neun Wohnbaracken mit je 54 Ostarbeiterinnen.",
-    "quellen": "Sterberegister Velten (Abschrift 2004); Briefe 2004 (Erinnerung); Projektrecherche Velten (Stand 8.10.2026). Baubeschreibung 5.2.1944 (Abschriften aus Bauakten, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf); Lageplan Veltener Maschinenbau 29.8.1942; Katasterauszug Flurstücke VeMa 27.5.1942; Luftbild Velten 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) mit handschriftlicher Legende, nicht bestätigt. Pläne als Abbildung: siehe Bildunterschriften. Presse: H. Fritsch, „Topographie der Zwangsarbeiterlager in Velten wird klarer“, Oranienburger Generalanzeiger, 29.5.2002; H. Fritsch, „Abwasserpläne führten auf die richtige Spur“, Oranienburger Generalanzeiger, Mai 2002. Lageplan Barackenlager Veltener-Maschinenbau-Ikaria-Werke, 2.6.1942 (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-II_062). Bauantrag 11.12.1942, Baubeschreibung 5.2.1944, Zeichnungen Abborthaus und Einzäunung (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-I_018, ZWA25-II_057, 059 und 055). Sterbebuch des Standesamts Velten 1942 bis 1945 (Abschrift im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, gegengelesen, eigene Auszählung; Auswahl); Namen, Alter und Todesarten nur in der Kartenansicht, Sterbedaten ohne Namen auf dieser Seite. Einordnung: Artikel «Wie starben die Menschen? Todesarten in Velten 1942 bis 1945 und ihre Einordnung» (todesarten-einordnung.html) mit Literatur.",
-    "foto": null,
-    "personen": [
-      [
-        "71/1942",
-        "Polazeja Andritschuk",
-        "5.8.1942",
-        "28 J.",
-        "Selbsttötung (Eintrag: «Selbstmord»)"
-      ],
-      [
-        "44/1944",
-        "Nadja Kotschergina",
-        "27.2.1944",
-        "18 J.",
-        "Lungentuberkulose"
-      ],
-      [
-        "72/1944",
-        "Jakob Socha",
-        "21.4.1944",
-        "51 J.",
-        "Herzfehler und Lungenentzündung"
-      ],
-      [
-        "102/1944",
-        "Alexandra Rjabrowa",
-        "26.6.1944",
-        "ca. 4 J.",
-        "Lungentuberkulose"
-      ],
-      [
-        "115/1944",
-        "Matrena Kaschena geb. Troschichina",
-        "15.7.1944",
-        "ca. 77 J.",
-        "Herzklappenfehler"
-      ],
-      [
-        "116/1944",
-        "Maria Omeltschuk (I)",
-        "15.7.1944",
-        "23 J.",
-        "Lungentuberkulose"
-      ],
-      [
-        "117/1944",
-        "Georges Chaffoteaux",
-        "19.7.1944",
-        "45 J.",
-        "Herzschlag"
-      ],
-      [
-        "121/1944",
-        "Katerina Isakowa",
-        "4.8.1944",
-        "ca. 64 J.",
-        "Herzklappenfehler"
-      ],
-      [
-        "137/1944",
-        "Maria Omeltschuk (II)",
-        "2.9.1944",
-        "21 J.",
-        "Lungentuberkulose"
-      ],
-      [
-        "158/1944",
-        "Hanna (Lesung unsicher) Waschchon geb. Jaschko",
-        "5.11.1944",
-        "23 J.",
-        "akute Herzschwäche"
-      ],
-      [
-        "6/1945",
-        "Odarka Srebnjuk",
-        "2.1.1945",
-        "27 J.",
-        "Bauchfellentzündung"
-      ],
-      [
-        "18/1945",
-        "Wassilij Zeruk",
-        "26.1.1945",
-        "16 Tage",
-        "Ernährungsstörung, Durchfall"
-      ],
-      [
-        "93/1945",
-        "Andre Kratjuk",
-        "19.4.1945",
-        "4 Mon.",
-        "Lungenentzündung"
-      ]
-    ],
-    "region": "velten",
-    "route": "",
-    "rechte": {
-      "text": "eigener Text des Projekts, Tatsachen mit Quelle",
-      "koordinate": "aus Lageplänen abgeleitet (Anhaltspunkt)",
-      "namen": "Namen, Sterbetag, Alter und Todesart laut Sterbebuch Standesamt Velten (Veröffentlichung auf Entscheidung von Jens-Martin Krieg, 1.11.2026), nur in der Kartenansicht; keine Eltern, keine Geburtsdaten",
-      "foto": "Fotos von Jens-Martin Krieg (Kanalufer, Brücke); Pläne und Aktenblätter Dritter, Rechte nicht abschließend geklärt",
-      "status": "bedingt frei"
-    },
-    "bilder": [
-      {
-        "datei": "lageplan-vema-1942.jpg",
-        "alt": "Bauplan mit Hallen I bis III, dem Veltener Stichkanal und zwei Reihen nummerierter Baracken 26 bis 38",
-        "beschr": "Lageplan der Veltener Maschinenbau GmbH, gezeichnet 29.8.1942, Bauschein Nr. 216, baupolizeilich geprüft in Nauen 1944. Zwischen dem Veltener Stichkanal (oben) und den Hallen I bis III liegen die Baracken Nr. 26 bis 38 mit eigener Umzäunung und einer Kläranlage. Rechts die Straße nach Hohenschöpping. Eine Nordrichtung ist nicht eingezeichnet.",
-        "quelle": "Quelle: Lageplan Veltener Maschinenbau GmbH, 29.8.1942, Kopie im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004. Rechte nicht abschließend geklärt."
-      },
-      {
-        "datei": "kataster-vema-1942.jpg",
-        "alt": "Katasterauszug mit Handzeichnung der Flurstücke an Stichkanal, Muhrgraben und Berliner Straße",
-        "beschr": "Katasterauszug (Handzeichnung nach den Katasterkarten) für die Grundstücke der Veltener Maschinenbau GmbH, Gemarkung Velten, Kartenblatt 7, ausgefertigt in Berlin-Spandau am 27.5.1942, Maßstab etwa 1:2500. Zu sehen sind der Stich-Kanal (oben), der Muhrgraben und die Berliner Straße. Die Hoheitszeichen der damaligen Behörde stehen auf dem Original und dienen hier der Dokumentation.",
-        "quelle": "Quelle: Katasteramt Nauen, Nebenstelle Spandau, 27.5.1942, Kopie im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004. Rechte nicht abschließend geklärt."
-      },
-      {
-        "datei": "vema-lager-plan-1942-06.jpg",
-        "alt": "Lageplan mit zwei Reihen nummerierter Baracken, Waschraum und Nebengebäuden zwischen Stichkanal und Berliner Straße",
-        "beschr": "Lageplan des Barackenlagers der Veltener-Maschinenbau-Ikaria-Werke, Maßstab 1:1000, bei der Stadt eingegangen am 2.6.1942, geprüft am 24.6.1942. Zwischen dem Veltener Stichkanal (oben) und der Berliner Straße (unten) stehen die Baracken 4 bis 11 in zwei Reihen mit Hauptweg I und II, dazu Waschraum, Klosettanlage, Heizung, Trafo und die Baracken 2 und 3. Rechts liegt die Velma. Es ist ein anderer Plan als der vom 29.8.1942 oben; die Zählung der Baracken weicht ab",
-        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 062 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
-      },
-      {
-        "datei": "vema-baubeschreibung-1944-02-05.jpg",
-        "alt": "Maschinengeschriebene Baubeschreibung für ein Barackenlager für Ostarbeiterinnen, Velten, 5. Februar 1944",
-        "beschr": "Baubeschreibung der Veltener Maschinenbau GmbH «für Barackenlager für Ostarbeiterinnen», Velten, 5.2.1944. Die Baracken Nr. 6 bis 29 und 31 bis 38 sind RAD-Baracken, die der Baubevollmächtigte des Ministeriums Speer lieferte, ebenso die Baracke Nr. 30. Neun Wohnbaracken sind mit je 54 Ostarbeiterinnen belegt, rechnerisch 486 Frauen. Nr. 28 ist eine Abortbaracke mit 20 Toiletten, Nr. 29 enthält Werkküche, Vorrats- und Kartoffelkeller und Waschraum, Nr. 30 dient als Aufenthalts- und Speiseraum, in Nr. 36 sind Wohnraum der Lagerführerin, Lagerärztin, Lagerwache (Lesung nicht ganz sicher) und die Revierstube untergebracht. Das Lager liegt innerhalb des Werkgeländes und ist nur vom Werk aus zu betreten; auf der Kanalseite ist ein Tor, die Abwässer gehen über die Kläranlage der Ikaria-Werke in den Veltener Stichkanal. Unterschrift und Handzeichen sind unkenntlich gemacht",
-        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 057 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
-      },
-      {
-        "datei": "vema-bauantrag-1942-12-11.jpg",
-        "alt": "Formular «Bauantrag» der Veltener Maschinenbau GmbH vom 11. Dezember 1942 mit Eingangsstempel des Bürgermeisters",
-        "beschr": "Bauantrag der Veltener Maschinenbau GmbH an den Landrat in Nauen vom 11.12.1942 «zum Bau eines Wohnbarackenlagers für ausländische Arbeitskräfte» in Velten, Berliner Straße Nr. 14, mit vier Lageplänen und vier Bauzeichnungen; beim Bürgermeister eingegangen am 15.12.1942. Das Gelände wurde für die Kriegsdauer gepachtet, auch das Lager ist nur für die Kriegsdauer vorgesehen. Der Name des Verpächters und die Unterschrift sind unkenntlich gemacht",
-        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) I, Bild 018 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
-      },
-      {
-        "datei": "vema-abborthaus.jpg",
-        "alt": "Bauzeichnung eines Abborthauses mit Grundriss, Querschnitt, Giebel- und Längsansicht",
-        "beschr": "Bauzeichnung «Abborthaus», Maßstab 1:100, mit Stempel der Veltener Maschinenbau GmbH und Stempel «Gehört zum Bauschein» (Nummer und Datum nicht sicher lesbar). Der Grundriss misst rund 4,5 mal 4,6 m und trennt die Toilettenstände nach den Beschriftungen «Mannschaften» und «Führer». Die Vorlage ist um 180 Grad gedreht, eine Unterschrift unkenntlich gemacht",
-        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 059 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
-      },
-      {
-        "datei": "vema-einzaeunung-1943-03-26.jpg",
-        "alt": "Technische Zeichnung eines Holzzauns mit Pfosten und Latten, Maße in Metern",
-        "beschr": "Zeichnung «Einzäunung des Barackenlagers III (Holzzaun) der Veltener Maschinenbau GmbH», beim Bürgermeister eingegangen am 26.3.1943. Dargestellt sind Zaunfeld, Pfosten und Latten mit Maßen; am Kopf des Zauns sind zwei Reihen mit Kreuzen eingezeichnet, vermutlich Stacheldraht (Deutung nicht gesichert). Die Vorlage ist gedreht, eine Unterschrift unkenntlich gemacht",
-        "quelle": "Quelle: Stadtarchiv Hennigsdorf, Sammlung Dr. H. Fritsch, NHF024 (ZWA25) II, Bild 055 (Bauakte Velten). Aufnahme des Aktenblatts durch die Initiative am 30.10.2026. Rechte nicht abschließend geklärt."
-      },
-      {
-        "datei": "kanalbruecke-ansicht.jpg",
-        "alt": "Betonbrücke mit Bogen über einem Kanal, links ein Pegelpfahl mit gelber Spitze",
-        "beschr": "Brücke über den Veltener Stichkanal, Ansicht vom Ufer.",
-        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
-      },
-      {
-        "datei": "veltag-kanalseite-spiegelung.jpg",
-        "alt": "Lange Hallen am Ufer eines Kanals mit Spiegelung im Wasser und einem Kran",
-        "beschr": "Hallen am gegenüberliegenden Ufer des Stichkanals. Nach Angabe von Jens-Martin Krieg die Kanalseite der Veltag; durch Quellen nicht belegt.",
-        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
-      },
-      {
-        "datei": "kanal-gegenufer.jpg",
-        "alt": "Kanal zwischen kahlen Bäumen mit einer Brücke im Hintergrund",
-        "beschr": "Stichkanal mit Blick zum Gegenufer.",
-        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
-      },
-      {
-        "datei": "kanal-ufer-kiefern.jpg",
-        "alt": "Kanalufer mit Kiefern und Blick auf das andere Ufer",
-        "beschr": "Ufer des Stichkanals mit Kiefern.",
-        "quelle": "Foto: Jens-Martin Krieg, 16.12.2023."
-      },
-      {
-        "datei": "kanal-ufer-spiegelung.jpg",
-        "alt": "Böschung am Kanal mit Spiegelung der Uferbäume im Wasser",
-        "beschr": "Kanalufer mit Spiegelung im Wasser.",
-        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
-      },
-      {
-        "datei": "kanal-uferweg.jpg",
-        "alt": "Unbefestigter Weg zwischen kahlen Bäumen",
-        "beschr": "Weg am Ufer des Stichkanals.",
-        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
-      },
-      {
-        "datei": "kanal-betonmauer-hof.jpg",
-        "alt": "Betonmauer, dahinter Halle und Betriebshof mit Containern",
-        "beschr": "Betonmauer am Ufer, dahinter ein Betriebshof mit Halle.",
-        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
-      },
-      {
-        "datei": "kanal-ufermauer-container.jpg",
-        "alt": "Weiße Ziegelmauer mit Graffiti am Wasser, davor ein Container",
-        "beschr": "Ufermauer mit Container am Kanal.",
-        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
-      },
-      {
-        "datei": "kanal-backsteinmauer.jpg",
-        "alt": "Helle Backsteinmauer mit Graffiti über einem Betriebshof",
-        "beschr": "Backsteinmauer am Kanalufer über dem Betriebshof.",
-        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
-      },
-      {
-        "datei": "kanal-hof-lange-halle.jpg",
-        "alt": "Betriebshof mit einer langen Halle mit Fensterbändern",
-        "beschr": "Betriebshof mit langer Halle, heutiger Zustand.",
-        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
-      },
-      {
-        "datei": "kanal-halle-kran.jpg",
-        "alt": "Hallen mit Kran, im Vordergrund Betonplatten",
-        "beschr": "Hallen auf dem heutigen Gewerbegelände. Ein Firmenschild ist unkenntlich gemacht.",
-        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
-      },
-      {
-        "datei": "kanal-uferblick-gebaeude.jpg",
-        "alt": "Kanal mit Spiegelung, am linken Ufer Gebäude",
-        "beschr": "Blick den Stichkanal entlang, am linken Ufer Gewerbebauten.",
-        "quelle": "Foto: Jens-Martin Krieg, 27.12.2023."
-      }
-    ],
-    "pquelle": "Sterbebuch des Standesamts Velten 1942 bis 1945 (Abschrift im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, gegengelesen; eine Auswahl, nicht vollständig). Anschrift laut Eintrag, kein Beleg für den Betrieb. Die Todesart ist die Eintragung des Standesbeamten, keine ärztliche Feststellung. Schreibweise wie gelesen. Berliner Straße 13/14; eine Totgeburt ist nicht namentlich aufgeführt."
-  },
-  {
-    "id": "V16",
+    "id": "V13",
     "titel": "Unterkünfte an der Breiten Straße",
     "gruppe": "Lager und Betriebe",
     "lat": 52.6918,
@@ -884,14 +862,14 @@
     "pquelle": "Sterbebuch des Standesamts Velten 1942 bis 1945 (Abschrift im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, gegengelesen; eine Auswahl, nicht vollständig). Anschrift laut Eintrag, kein Beleg für den Betrieb. Die Todesart ist die Eintragung des Standesbeamten, keine ärztliche Feststellung. Schreibweise wie gelesen. Breite Straße."
   },
   {
-    "id": "V17",
+    "id": "V14",
     "titel": "Wo die Verstorbenen untergebracht waren",
     "gruppe": "Lager und Betriebe",
     "lat": null,
     "lon": null,
     "lage": "nicht einzeln verortet, Zählung nach Straße",
     "gewissheit": "belegt (Abschrift, Auswahl)",
-    "text": "Das Sterberegister der Jahre 1942 bis April 1945 nennt als Anschrift: Kanalstraße (Bergmann-Gelände) 22 Todesfälle; Berliner Straße 13/14 14; Friedrichstraße 12; Breite Straße 5; Berliner Straße 8 (ziviles Werkslager) 5; Heidekrug 2; Mühlenstraße 2; je ein Fall Hohenschöpping, Bötzower Straße, Köhstraße, Germendorfer Straße, Lindenstraße. Zwei französische Kriegsgefangene haben keine Anschrift. Zwei weitere Männer starben am 7.11.1944 am Tonberg (V23).\n\nDie Zahlen stammen aus einer Auswahl der Einträge; die Gräberliste der Stadt Velten von 1949 führt 75 Fälle von 1940 bis 1945, einzelne Todesfälle fehlen also hier. Sie zeigen mindestens zehn verschiedene Unterkünfte im Stadtgebiet.\n\n## Einordnung der Todesarten\n\nGemeint sind die 56 namentlich geführten Fälle an den Anschriften der fünf Einträge V04, V07, V15, V16 und V35 (zwei Totgeburten nicht gerechnet). Die Todesart ist die Eintragung des Standesbeamten. Ob sie die Ursache vollständig wiedergibt, ist nicht geprüft, ärztliche Feststellungen liegen nicht vor.\n\n22 der 56 Verstorbenen waren Kinder unter 14 Jahren, 18 davon Säuglinge bis zu einem Jahr. Bei den Kindern steht am häufigsten eine Lungenentzündung, bei den Erwachsenen ein Herz- oder Lungenleiden. Drei Fälle gelten als Alkoholvergiftung (zwei am 24.10.1944, einer am 7.4.1945), drei als Unfall, Gewalt oder Suizid (Ertrinken im Industriekanal am 22.8.1944, Selbsttötung am 5.8.1942, Bombensplitterverletzung am 19.3.1945). Umstände und Herkunft des Alkohols gehen aus den Einträgen nicht hervor.\n\nZum Hintergrund: Für Lager im Deutschen Reich nennt die Stadt Münster Hunger und einseitige Verpflegung, Massenquartiere mit unzureichenden Toiletten und Waschmöglichkeiten, kaum medizinische Versorgung und den Ausschluss der «Ostarbeiter» vom Krankenversicherungsschutz. In Velten sah die Baubeschreibung vom 5.2.1944 für bis zu 486 Frauen neun Wohnbaracken mit je 54 Ostarbeiterinnen und einen Abort mit 20 Toiletten vor (V05, V15). Schwangere und Mütter mit Kleinkindern wurden teils verschleppt und mussten kurz nach der Geburt wieder arbeiten. Im Reich gab es rund 300 «Ausländerkinder-Pflegestätten», in denen Säuglinge von ihren Müttern getrennt wurden; bei einer Kontrolle in Oberdonau im Juli 1943 wurden dort Unterernährung und schwere Hygienemängel festgestellt (Lammer). Ob die Veltener Kinder in einer solchen Einrichtung lebten, geht aus dem Sterbebuch nicht hervor; sie standen mit der Anschrift eines Lagers im Register.\n\nDer Zusammenhang zwischen den Lebensbedingungen und den einzelnen Todesfällen ist aus dem Register nicht belegbar. Die Einordnung beschreibt die Umstände, unter denen die Menschen lebten, und keine Ursache im Einzelfall.",
+    "text": "Das Sterberegister der Jahre 1942 bis April 1945 nennt als Anschrift: Kanalstraße (Bergmann-Gelände) 22 Todesfälle; Berliner Straße 13/14 14; Friedrichstraße 12; Breite Straße 5; Berliner Straße 8 (ziviles Werkslager) 5; Heidekrug 2; Mühlenstraße 2; je ein Fall Hohenschöpping, Bötzower Straße, Köhstraße, Germendorfer Straße, Lindenstraße. Zwei französische Kriegsgefangene haben keine Anschrift. Zwei weitere Männer starben am 7.11.1944 am Tonberg (V19).\n\nDie Zahlen stammen aus einer Auswahl der Einträge; die Gräberliste der Stadt Velten von 1949 führt 75 Fälle von 1940 bis 1945, einzelne Todesfälle fehlen also hier. Sie zeigen mindestens zehn verschiedene Unterkünfte im Stadtgebiet.\n\n## Einordnung der Todesarten\n\nGemeint sind die 56 namentlich geführten Fälle an den Anschriften der fünf Einträge V04, V05, V07, V13 und V25 (zwei Totgeburten nicht gerechnet). Die Todesart ist die Eintragung des Standesbeamten. Ob sie die Ursache vollständig wiedergibt, ist nicht geprüft, ärztliche Feststellungen liegen nicht vor.\n\n22 der 56 Verstorbenen waren Kinder unter 14 Jahren, 18 davon Säuglinge bis zu einem Jahr. Bei den Kindern steht am häufigsten eine Lungenentzündung, bei den Erwachsenen ein Herz- oder Lungenleiden. Drei Fälle gelten als Alkoholvergiftung (zwei am 24.10.1944, einer am 7.4.1945), drei als Unfall, Gewalt oder Suizid (Ertrinken im Industriekanal am 22.8.1944, Selbsttötung am 5.8.1942, Bombensplitterverletzung am 19.3.1945). Umstände und Herkunft des Alkohols gehen aus den Einträgen nicht hervor.\n\nZum Hintergrund: Für Lager im Deutschen Reich nennt die Stadt Münster Hunger und einseitige Verpflegung, Massenquartiere mit unzureichenden Toiletten und Waschmöglichkeiten, kaum medizinische Versorgung und den Ausschluss der «Ostarbeiter» vom Krankenversicherungsschutz. In Velten sah die Baubeschreibung vom 5.2.1944 für bis zu 486 Frauen neun Wohnbaracken mit je 54 Ostarbeiterinnen und einen Abort mit 20 Toiletten vor (V05). Schwangere und Mütter mit Kleinkindern wurden teils verschleppt und mussten kurz nach der Geburt wieder arbeiten. Im Reich gab es rund 300 «Ausländerkinder-Pflegestätten», in denen Säuglinge von ihren Müttern getrennt wurden; bei einer Kontrolle in Oberdonau im Juli 1943 wurden dort Unterernährung und schwere Hygienemängel festgestellt (Lammer). Ob die Veltener Kinder in einer solchen Einrichtung lebten, geht aus dem Sterbebuch nicht hervor; sie standen mit der Anschrift eines Lagers im Register.\n\nDer Zusammenhang zwischen den Lebensbedingungen und den einzelnen Todesfällen ist aus dem Register nicht belegbar. Die Einordnung beschreibt die Umstände, unter denen die Menschen lebten, und keine Ursache im Einzelfall.",
     "quellen": "Sterberegister Velten (handschriftliche Abschrift 2004, eigene Auszählung). Stadt Münster, «Alltag und Arbeit» (stadt-muenster.de/zwangsarbeit/alltag-und-arbeit); Lammer, «Kinderheime» (Jägerstätter-Institut, Katholische Privat-Universität Linz, ku-linz.at).",
     "foto": null,
     "personen": null,
@@ -906,7 +884,7 @@
     }
   },
   {
-    "id": "V31",
+    "id": "V21",
     "titel": "Zwangsarbeiterinnenlager der Veltener-Maschinenbau-Ikaria-Werke (Luftbild 1945)",
     "gruppe": "Lager und Betriebe",
     "lat": 52.6713,
@@ -1020,14 +998,14 @@
     ]
   },
   {
-    "id": "V32",
+    "id": "V22",
     "titel": "Holzfabrik am Hafenbecken (Luftbild 1945)",
     "gruppe": "Lager und Betriebe",
     "lat": 52.6838,
     "lon": 13.1859,
     "lage": "ungefähr: Gelände am Hafenbecken des Stichkanals, nordwestlich des Beckens. Lage aus dem Luftbild von 1945 abgeleitet (Abweichung bis etwa 150 m), nicht eingemessen. Eine zweite grün markierte Fläche liegt rund 600 m östlich, bei etwa 52.6822, 13.1944.",
     "gewissheit": "Hypothese",
-    "text": "Auf dem Luftbild vom 22. März 1945 sind am Hafenbecken zwei Flächen grün markiert, die die handschriftliche Legende des Projekts mit «Holzfabrik stellte Baracken her» beschreibt. Der Satz bricht am Blattrand ab («u. a. für …»). Das Fernsprechbuch von 1938 nennt in Velten mehrere Dampfsägewerke und Zimmereien, alle in der Ortsmitte und nicht am Hafen. Ein Dampfsägewerk, die Firma Gebr. Döscher in der Breiten Straße 47, taucht in Bauakten von 1940 und 1941 im Zusammenhang mit dem Gemeinschaftslager am Hafenplatz auf (V33). Ob sie die Holzfabrik der Legende ist, ist offen. Welcher Betrieb gemeint ist, für wen er Baracken herstellte und ob Zwangsarbeitende dort arbeiteten, ist nicht belegt.",
+    "text": "Auf dem Luftbild vom 22. März 1945 sind am Hafenbecken zwei Flächen grün markiert, die die handschriftliche Legende des Projekts mit «Holzfabrik stellte Baracken her» beschreibt. Der Satz bricht am Blattrand ab («u. a. für …»). Das Fernsprechbuch von 1938 nennt in Velten mehrere Dampfsägewerke und Zimmereien, alle in der Ortsmitte und nicht am Hafen. Ein Dampfsägewerk, die Firma Gebr. Döscher in der Breiten Straße 47, taucht in Bauakten von 1940 und 1941 im Zusammenhang mit dem Gemeinschaftslager am Hafenplatz auf (V23). Ob sie die Holzfabrik der Legende ist, ist offen. Welcher Betrieb gemeint ist, für wen er Baracken herstellte und ob Zwangsarbeitende dort arbeiteten, ist nicht belegt.",
     "quellen": "Luftbild Velten vom 22.3.1945 (erma Brandenburg, Bild 4122, Film 071) mit handschriftlicher Legende von Jens-Martin Krieg, Legende teils schwer lesbar und nicht bestätigt; Fernsprechbuch Velten (Mark) 1938.",
     "foto": null,
     "personen": null,
@@ -1042,7 +1020,7 @@
     }
   },
   {
-    "id": "V33",
+    "id": "V23",
     "titel": "Gemeinschaftslager am Hafenplatz",
     "gruppe": "Lager und Betriebe",
     "lat": 52.6816,
@@ -1078,7 +1056,7 @@
     ]
   },
   {
-    "id": "V34",
+    "id": "V24",
     "titel": "Gaststätte und Lager «Hotel Fahrtmann»",
     "gruppe": "Lager und Betriebe",
     "lat": 52.69335,
@@ -1100,14 +1078,14 @@
     }
   },
   {
-    "id": "V35",
+    "id": "V25",
     "titel": "Unterkunft Friedrichstraße 59 bis 63",
     "gruppe": "Lager und Betriebe",
     "lat": 52.6799,
     "lon": 13.1734,
     "lage": "Anhaltspunkt an der heutigen Rosa-Luxemburg-Straße (früher Friedrichstraße), Abschnitt westlich der Ortsmitte, nach OpenStreetMap. Die Hausnummern von 1943 bis 1945 können von den heutigen abweichen, die Lage ist deshalb nur ungefähr (Abweichung bis mehrere hundert Meter). Nicht eingemessen.",
     "gewissheit": "Anschrift belegt, Lage ungefähr, Betrieb offen",
-    "text": "Das Sterberegister der Jahre 1943 bis 1945 nennt «Friedrichstraße 59-63» als Wohnort von 12 Verstorbenen, darunter 7 Kinder. Auch mehrere Geburten dieser Jahre stehen unter dieser Anschrift. Es waren ausländische Arbeiterinnen und Arbeiter mit ihren Kindern. Für welchen Betrieb sie arbeiteten, ist nicht belegt. Die Friedrichstraße heißt heute Rosa-Luxemburg-Straße. Die Veltag, die 1944 Zwangsarbeiter aus der Sowjetunion einsetzte, hatte ihr Hauptwerk an derselben Straße (V36); ein Zusammenhang mit dieser Unterkunft ist nicht belegt.",
+    "text": "Das Sterberegister der Jahre 1943 bis 1945 nennt «Friedrichstraße 59-63» als Wohnort von 12 Verstorbenen, darunter 7 Kinder. Auch mehrere Geburten dieser Jahre stehen unter dieser Anschrift. Es waren ausländische Arbeiterinnen und Arbeiter mit ihren Kindern. Für welchen Betrieb sie arbeiteten, ist nicht belegt. Die Friedrichstraße heißt heute Rosa-Luxemburg-Straße. Die Veltag, die 1944 Zwangsarbeiter aus der Sowjetunion einsetzte, hatte ihr Hauptwerk an derselben Straße (V26); ein Zusammenhang mit dieser Unterkunft ist nicht belegt.",
     "quellen": "Sterberegister und Geburtenbuch Velten (Abschrift 2004 und Sterbebuch-Auszug, Auswahl); Gräberliste der Stadt Velten vom 27.12.1949 (Arolsen Archives). Sterbebuch des Standesamts Velten 1942 bis 1945 (Abschrift im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, gegengelesen, eigene Auszählung; Auswahl); Namen, Alter und Todesarten nur in der Kartenansicht, Sterbedaten ohne Namen auf dieser Seite. Einordnung: Artikel «Wie starben die Menschen? Todesarten in Velten 1942 bis 1945 und ihre Einordnung» (todesarten-einordnung.html) mit Literatur.",
     "foto": null,
     "personen": [
@@ -1208,14 +1186,14 @@
     "pquelle": "Sterbebuch des Standesamts Velten 1942 bis 1945 (Abschrift im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, gegengelesen; eine Auswahl, nicht vollständig). Anschrift laut Eintrag, kein Beleg für den Betrieb. Die Todesart ist die Eintragung des Standesbeamten, keine ärztliche Feststellung. Schreibweise wie gelesen. Friedrichstraße 59 bis 63."
   },
   {
-    "id": "V36",
+    "id": "V26",
     "titel": "Veltener Ofenfabrik AG (Veltag), Friedrichstraße",
     "gruppe": "Lager und Betriebe",
     "lat": 52.6826,
     "lon": 13.1794,
     "lage": "Anhaltspunkt an der heutigen Rosa-Luxemburg-Straße (früher Friedrichstraße), nach den Adressen der Tafel und OpenStreetMap, nicht eingemessen. Auf dem aktuellen Luftbild liegt dort ein großer Hallenkomplex mit Brachflächen.",
     "gewissheit": "belegt (Infotafel, Literatur), Lage ungefähr",
-    "text": "Die Ofenfabrik an der damaligen Friedrichstraße 32 wurde 1871 von Klaetsch und Kellermann gegründet, kam 1884 an die Familie Blumenfeld und wurde 1905 die Veltener Ofenfabrik AG. 1924 übernahm sie die Fabriken der Keramik AG, seit 1933 heißt sie Veltag, seit 1948 Veltak. Später war sie Werk des VEB Plattenwerk Max Dietel Meißen und des Kombinats Fliesen und Sanitärkeramik Boizenburg. 1997 wurde der Produktionsstandort aufgegeben.\n\nZu Kriegsbeginn galt die Veltag als kriegswichtiger Betrieb, 1944 setzte sie Zwangsarbeiter aus der Sowjetunion ein. Ein Lager der Veltag bestand an der Mühlenstraße (V12). Welche Unterkünfte zum Hauptwerk gehörten, ist nicht belegt; die Unterkunft an der Friedrichstraße (V35) ist nicht zugeordnet.",
+    "text": "Die Ofenfabrik an der damaligen Friedrichstraße 32 wurde 1871 von Klaetsch und Kellermann gegründet, kam 1884 an die Familie Blumenfeld und wurde 1905 die Veltener Ofenfabrik AG. 1924 übernahm sie die Fabriken der Keramik AG, seit 1933 heißt sie Veltag, seit 1948 Veltak. Später war sie Werk des VEB Plattenwerk Max Dietel Meißen und des Kombinats Fliesen und Sanitärkeramik Boizenburg. 1997 wurde der Produktionsstandort aufgegeben.\n\nZu Kriegsbeginn galt die Veltag als kriegswichtiger Betrieb, 1944 setzte sie Zwangsarbeiter aus der Sowjetunion ein. Ein Lager der Veltag bestand an der Mühlenstraße (V11). Welche Unterkünfte zum Hauptwerk gehörten, ist nicht belegt; die Unterkunft an der Friedrichstraße (V25) ist nicht zugeordnet.",
     "quellen": "Infotafel Standort 14 des Ofenfabrik-Rundwegs Velten (Foto Jens-Martin Krieg, 27.12.2023); Wikipedia «Veltak» mit Verweis auf Paul Dahms, Velten. Ein Streifzug durch die Geschichte der Ofenstadt (Veltener Verlagsgesellschaft, S. 91 bis 94 und 98 bis 99, nicht eingesehen); OpenStreetMap.",
     "foto": null,
     "personen": null,
@@ -1280,7 +1258,7 @@
     ]
   },
   {
-    "id": "V18",
+    "id": "V15",
     "titel": "Friedhof Velten",
     "gruppe": "Verfolgung und Gedenken",
     "lat": 52.6892,
@@ -1773,7 +1751,7 @@
     ]
   },
   {
-    "id": "V19",
+    "id": "V16",
     "titel": "Gedenkstele am Weg «Zur Erinnerung»",
     "gruppe": "Verfolgung und Gedenken",
     "lat": 52.6715,
@@ -1815,7 +1793,7 @@
     ]
   },
   {
-    "id": "V21",
+    "id": "V17",
     "titel": "Geschäft einer jüdischen Familie, Viktoriastraße",
     "gruppe": "Verfolgung und Gedenken",
     "lat": 52.6873,
@@ -1837,7 +1815,7 @@
     }
   },
   {
-    "id": "V22",
+    "id": "V18",
     "titel": "Bahnhalt Hohenschöpping",
     "gruppe": "Verfolgung und Gedenken",
     "lat": 52.66986,
@@ -1903,7 +1881,7 @@
     ]
   },
   {
-    "id": "V23",
+    "id": "V19",
     "titel": "Tonberg: Hinrichtung zweier Ostarbeiter 1944 und Gedenken",
     "gruppe": "Verfolgung und Gedenken",
     "lat": 52.6934,
@@ -1951,7 +1929,7 @@
     ]
   },
   {
-    "id": "V30",
+    "id": "V20",
     "titel": "Erinnerung: Frauen aus Łódź in einer Veltener Fabrik",
     "gruppe": "Verfolgung und Gedenken",
     "lat": null,
@@ -1973,7 +1951,7 @@
     }
   },
   {
-    "id": "V37",
+    "id": "V27",
     "titel": "VVN-Mahnmal an der Poststraße",
     "gruppe": "Verfolgung und Gedenken",
     "lat": 52.686,
@@ -2021,7 +1999,7 @@
     ]
   },
   {
-    "id": "V38",
+    "id": "V28",
     "titel": "Stolpersteine für die Familie Lehmann",
     "gruppe": "Verfolgung und Gedenken",
     "lat": 52.6885,
@@ -2081,7 +2059,7 @@
     ]
   },
   {
-    "id": "V39",
+    "id": "V29",
     "titel": "Stolpersteine für Erna und Gustav Gersinski",
     "gruppe": "Verfolgung und Gedenken",
     "lat": 52.6921,
@@ -2104,12 +2082,12 @@
     "bilder": []
   },
   {
-    "id": "V40",
+    "id": "V30",
     "titel": "Stolperstein für Richard Ungermann",
     "gruppe": "Verfolgung und Gedenken",
     "lat": 52.6934,
     "lon": 13.1716,
-    "lage": "Anhaltspunkt an der Wilhelmstraße nach der Wohnadresse laut Broschüre, nicht eingemessen, Abweichung einige zehn Meter. Das Wohnhaus steht nicht mehr; der genaue Ort des Steins ist offen. Der Punkt liegt nahe V34.",
+    "lage": "Anhaltspunkt an der Wilhelmstraße nach der Wohnadresse laut Broschüre, nicht eingemessen, Abweichung einige zehn Meter. Das Wohnhaus steht nicht mehr; der genaue Ort des Steins ist offen. Der Punkt liegt nahe V24.",
     "gewissheit": "belegt (Broschüre), genaue Stelle des Steins offen",
     "text": "An der Wilhelmstraße liegt ein Stolperstein für Richard Ungermann, verlegt am 20. Februar 2020.\n\n## Zur Person\n\nRichard Ungermann (9.7.1908 in Gudgallen, Ostpreußen, bis Anfang April 1933) war Landarbeiter, ab 1927 in Velten und Ofenarbeiter im Stahlwerk Hennigsdorf. Er war Mitglied des Roten Frontkämpferbundes, beteiligte sich 1929 an einem Streik und war danach arbeitslos. Er wohnte zur Untermiete an der Wilhelmstraße; das Haus steht nicht mehr. Die Straße hieß von 1946 bis 1991 Ungermannstraße.\n\n## Verhaftung und Tod\n\nAm 3. März 1933 wurde er verhaftet, im Rathaus Velten und in einem SA-Lokal festgehalten und dann im frühen Lager Meißnerhof (V02) schwer misshandelt. Er starb Anfang April 1933, seine Leiche wurde Wochen später gefunden. Er wurde 25 Jahre alt.\n\n## Abweichende Angaben\n\nDas Todesdatum ist nicht einheitlich überliefert: Der Stein nennt April 1933, die Gedenktafel und die Stadt Velten nennen den 16. Mai 1933, die Broschüre Anfang April 1933.",
     "quellen": "Broschüre «Erna und Gustav Gersinski und Richard Ungermann» der Initiativgruppe gegen Gewalt und Rassismus Velten; Wikipedia, «Liste der Stolpersteine in Velten»; Stadt Velten, Seite Stolpersteine: https://velten.de/Stadtleben-Tourismus/Unsere-Stadt/Geschichte/Stolpersteine/.",
