@@ -100,16 +100,53 @@
     "text": "Betrieb für Vormaterial aus Nichteisenmetallen, 1939 gegründet. Frauen des Außenlagers waren hier eingesetzt. Der Betrieb leitete 1944 sein Abwasser in den Muhrgraben, wie die Dürener Metallwerke 1942. Nach einem Antrag vom 27.8.1943 waren auf dem Werksgelände ausländische Beschäftigte des Betriebs und der Velmet untergebracht und wurden aus der Werksküche verpflegt. Der Antrag auf einen Vorratsbunker wurde Anfang 1944 abgelehnt.",
     "quellen": "Reichsbetriebskartei, Bundesarchiv R 3/2001/0270 (Abschrift 2004); BLHA Rep. 2A I Kom 1971; Wikipedia; Lagerplan Lager II, 1943 (Rohde); Skizze «Lageplan der Vel-Ma» (Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-I_010). Antrag vom 27.8.1943 und Ablehnung 1943/44 (Abschriften aus Bauakten, Sammlung Dr. Helmut Fritsch, Stadtarchiv Hennigsdorf, ZWA25-I_084, 087).",
     "foto": null,
-    "personen": null,
+    "personen": [
+      [
+        "33/1943",
+        "Antoni Rada",
+        "6.4.1943",
+        "ca. 50 J.",
+        "Herzklappenfehler"
+      ],
+      [
+        "34/1944",
+        "Josef Lakomy",
+        "12.2.1944",
+        "48 J.",
+        "Lungentuberkulose"
+      ],
+      [
+        "38/40/1944",
+        "Stanislaw Bata",
+        "22.2.1944",
+        "34 J.",
+        "offene Lungentuberkulose"
+      ],
+      [
+        "61/1944",
+        "Michael Katzilof",
+        "5.4.1944",
+        "19 J.",
+        "Lungentuberkulose"
+      ],
+      [
+        "82/1945",
+        "Alexej Tschudakow",
+        "7.4.1945",
+        "38 J.",
+        "Alkoholvergiftung"
+      ]
+    ],
     "region": "velten",
     "route": "",
     "rechte": {
       "text": "eigener Text des Projekts, Tatsachen mit Quelle",
       "koordinate": "aus Lageplänen abgeleitet (Anhaltspunkt)",
-      "namen": "keine Namen",
+      "namen": "Namen, Sterbetag, Alter und Todesart laut Sterbebuch Standesamt Velten (Veröffentlichung auf Entscheidung von Jens-Martin Krieg, 1.11.2026), nur in der Kartenansicht; keine Eltern, keine Geburtsdaten",
       "foto": "kein Foto",
       "status": "frei"
-    }
+    },
+    "pquelle": "Sterbebuch des Standesamts Velten 1942 bis 1945 (Abschrift im Ordner Geschichtsprojekt Ev. Kirchengemeinde Velten 2004, gegengelesen; eine Auswahl, nicht vollständig). Anschrift laut Eintrag, kein Beleg für den Betrieb. Die Todesart ist die Eintragung des Standesbeamten, keine ärztliche Feststellung. Schreibweise wie gelesen. Berliner Straße 8."
   },
   {
     "id": "V05",
